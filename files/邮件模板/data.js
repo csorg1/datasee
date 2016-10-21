@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"邮件模板.html",
-  "generationDate":new Date(1476669367975.69),
+  "generationDate":new Date(1477021402949.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "y":96},
             "size":{
               "width":720,
-              "height":128}},
+              "height":144}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -57,7 +57,7 @@
                   "y":96},
                 "size":{
                   "width":720,
-                  "height":128}},
+                  "height":144}},
               "adaptiveStyles":{
 }}],
           "images":{

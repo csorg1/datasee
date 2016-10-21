@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"数据集列表-没有数据时.html",
-  "generationDate":new Date(1476669367781.56),
+  "generationDate":new Date(1477021402404.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -398,10 +398,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-Mysql in Current Window",
+                      "description":"Open 添加connector-DB-Mysql in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-mysql.html",
+                        "url":"__connector-db-mysql.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1029,6 +1029,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open home-已登录 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home-___.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
@@ -1064,6 +1079,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open 数据集列表 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"数据集列表.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {

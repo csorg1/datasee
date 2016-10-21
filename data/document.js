@@ -37,21 +37,21 @@
                     "type":"Wireframe",
                     "url":"connector__-_____.html"},
 {
-                    "pageName":"添加connector-Mysql",
+                    "pageName":"选择数据源类型",
                     "type":"Wireframe",
-                    "url":"__connector-mysql.html"},
+                    "url":"选择数据源类型.html"},
+{
+                    "pageName":"添加connector-DB-Mysql",
+                    "type":"Wireframe",
+                    "url":"__connector-db-mysql.html"},
+{
+                    "pageName":"添加connector-API-CODE",
+                    "type":"Wireframe",
+                    "url":"__connector-api-code.html"},
 {
                     "pageName":"添加connector-jira",
                     "type":"Wireframe",
-                    "url":"__connector-jira.html"},
-{
-                    "pageName":"添加connector-CODE",
-                    "type":"Wireframe",
-                    "url":"__connector-code.html"},
-{
-                    "pageName":"选择数据源类型",
-                    "type":"Wireframe",
-                    "url":"选择数据源类型.html"}]},
+                    "url":"__connector-jira.html"}]},
 {
                 "pageName":"数据集列表",
                 "type":"Wireframe",
@@ -61,37 +61,41 @@
                     "type":"Wireframe",
                     "url":"数据集列表-没有数据时.html"},
 {
-                    "pageName":"数据集详情-报表CODE",
+                    "pageName":"创建数据集DB- mysql",
                     "type":"Wireframe",
-                    "url":"数据集详情-报表code.html",
+                    "url":"_____db-_mysql.html"},
+{
+                    "pageName":"创建数据集API- CODE",
+                    "type":"Wireframe",
+                    "url":"_____api-_code.html"},
+{
+                    "pageName":"弹窗-预览数据",
+                    "type":"Wireframe",
+                    "url":"弹窗-预览数据.html"},
+{
+                    "pageName":"弹窗-创建数据集提示",
+                    "type":"Wireframe",
+                    "url":"弹窗-创建数据集提示.html"},
+{
+                    "pageName":"弹窗-关联表",
+                    "type":"Wireframe",
+                    "url":"弹窗-关联表.html"},
+{
+                    "pageName":"数据集详情-数据报表",
+                    "type":"Wireframe",
+                    "url":"数据集详情-数据报表.html",
                     "children":[{
                         "pageName":"数据集详情-更新历史CODE",
                         "type":"Wireframe",
                         "url":"数据集详情-更新历史code.html"},
 {
-                        "pageName":"数据集详情-数据模型CODE",
+                        "pageName":"数据集详情-数据模型",
                         "type":"Wireframe",
-                        "url":"数据集详情-数据模型code.html",
+                        "url":"数据集详情-数据模型.html",
                         "children":[{
                             "pageName":"指标设置弹窗",
                             "type":"Wireframe",
-                            "url":"指标设置弹窗.html"}]}]},
-{
-                    "pageName":"数据集详情-报表mysql",
-                    "type":"Wireframe",
-                    "url":"数据集详情-报表mysql.html"},
-{
-                    "pageName":"添加新的数据集-CODE",
-                    "type":"Wireframe",
-                    "url":"添加新的数据集-code.html"},
-{
-                    "pageName":"添加新的数据集- jira",
-                    "type":"Wireframe",
-                    "url":"添加新的数据集-_jira.html"},
-{
-                    "pageName":"添加新的数据集- mysql",
-                    "type":"Wireframe",
-                    "url":"添加新的数据集-_mysql.html"}]}]},
+                            "url":"指标设置弹窗.html"}]}]}]}]},
 {
             "pageName":"数据分析",
             "type":"Folder",

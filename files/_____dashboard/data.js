@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"_____dashboard.html",
-  "generationDate":new Date(1476669363614.81),
+  "generationDate":new Date(1477021398923.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1946,7 +1946,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/_____dashboard/u126.png"}},
+            "normal~":"images/数据集详情-数据模型/u270.png"}},
 {
           "id":"69d3a6c39eea4d80b4f45c49080252bc",
           "label":"",
@@ -2196,7 +2196,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/数据集详情-报表code/u73.png"}}]}]},
+                    "normal~":"images/数据集详情-数据报表/u75.png"}}]}]},
 {
           "id":"d9cb39c244974c7e80cbb7824db029bb",
           "label":"",
@@ -4961,6 +4961,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open home-已登录 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home-___.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
@@ -4996,6 +5011,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open 数据集列表 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"数据集列表.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {

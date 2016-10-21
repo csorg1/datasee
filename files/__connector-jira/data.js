@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__connector-jira.html",
-  "generationDate":new Date(1476669365169.83),
+  "generationDate":new Date(1477021401416.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -73,7 +73,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__connector-mysql/u0.png"}},
+            "normal~":"images/__connector-db-mysql/u0.png"}},
 {
           "id":"79006635523f495c8be17591d4b4d4f6",
           "label":"",
@@ -333,7 +333,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/__connector-mysql/u44_line.png"}},
+            "line~":"images/__connector-jira/u44_line.png"}},
 {
           "id":"c0172a50b75e4c88b1c3ac9bb64e2419",
           "label":"",
@@ -493,7 +493,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__connector-mysql/u0.png"}},
+            "normal~":"images/__connector-db-mysql/u0.png"}},
 {
           "id":"115990202db9497ead1635456794ce36",
           "label":"",
@@ -583,7 +583,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__connector-mysql/u62.png"}},
+            "normal~":"images/__connector-db-mysql/u47.png"}},
 {
           "id":"1df6057aa46646b4a1d592a42034c5aa",
           "label":"",
@@ -624,7 +624,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__connector-mysql/u64.png"}},
+            "normal~":"images/__connector-jira/u58.png"}},
 {
           "id":"6703c8a56aab4f5f8a7ff789b96fa469",
           "label":"",
@@ -904,7 +904,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__connector-mysql/u0.png"}},
+            "normal~":"images/__connector-db-mysql/u0.png"}},
 {
           "id":"7365b58b11bb43bda82710608184607e",
           "label":"",
@@ -1074,7 +1074,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__connector-mysql/u64.png"}},
+            "normal~":"images/__connector-jira/u58.png"}},
 {
           "id":"dca0cd9536bf45d79cfbd12a761fe7a0",
           "label":"",
@@ -1402,6 +1402,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open home-已登录 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home-___.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
@@ -1437,6 +1452,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open 数据集列表 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"数据集列表.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {

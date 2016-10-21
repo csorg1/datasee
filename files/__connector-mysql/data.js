@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__connector-mysql.html",
-  "generationDate":new Date(1476669353381.86),
+  "generationDate":new Date(1476959567927.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -613,7 +613,7 @@
           "style":{
             "location":{
               "x":60,
-              "y":754},
+              "y":809},
             "size":{
               "width":100,
               "height":16}},
@@ -629,7 +629,7 @@
               "style":{
                 "location":{
                   "x":60,
-                  "y":754},
+                  "y":809},
                 "size":{
                   "width":100,
                   "height":16}},
@@ -1334,6 +1334,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open home-已登录 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home-___.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
@@ -1369,6 +1384,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open 数据集列表 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"数据集列表.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {

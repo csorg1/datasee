@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"connector__-_____.html",
-  "generationDate":new Date(1476669364848.62),
+  "generationDate":new Date(1477021400909.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -732,7 +732,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/connector__/u127.png"}},
+                    "normal~":"images/connector__/u125.png"}},
 {
                   "id":"40a4993dc7d54979a19b44536cf7642d",
                   "label":"",
@@ -1152,6 +1152,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open home-已登录 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home-___.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
@@ -1187,6 +1202,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open 数据集列表 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"数据集列表.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"数据集列表.html",
-  "generationDate":new Date(1476669356825.25),
+  "generationDate":new Date(1477021389288.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -398,10 +398,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-Mysql in Current Window",
+                      "description":"Open 添加connector-DB-Mysql in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-mysql.html",
+                        "url":"__connector-db-mysql.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -485,10 +485,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 数据集详情-报表CODE in Current Window",
+                      "description":"Open 数据集详情-数据报表 in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"数据集详情-报表code.html",
+                        "url":"数据集详情-数据报表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -797,10 +797,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-CODE in Current Window",
+                      "description":"Open 添加connector-API-CODE in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-code.html",
+                        "url":"__connector-api-code.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1301,7 +1301,6 @@
                       "description":"Open 添加新的数据集-CODE in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"添加新的数据集-code.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1539,10 +1538,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 数据集详情-报表CODE in Current Window",
+                      "description":"Open 数据集详情-数据报表 in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"数据集详情-报表code.html",
+                        "url":"数据集详情-数据报表.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2603,6 +2602,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open home-已登录 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home-___.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {
@@ -2638,6 +2652,21 @@
                     "height":16}},
                 "adaptiveStyles":{
 }}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open 数据集列表 in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"数据集列表.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
             "images":{
               "normal~":"resources/images/transparent.gif"}},
 {

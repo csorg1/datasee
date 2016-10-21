@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"home-____1.html",
-  "generationDate":new Date(1476669360953.04),
+  "generationDate":new Date(1477021394695.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -502,15 +502,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-Mysql in Current Window",
+                      "description":"Open 添加connector-DB-Mysql in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-mysql.html",
+                        "url":"__connector-db-mysql.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择数据源类型/u9.png"}},
+            "normal~":"images/__connector-db-mysql/u69.png"}},
 {
           "id":"931f837433144f2b9fb58fab5194844b",
           "label":"",
@@ -550,10 +550,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-CODE in Current Window",
+                      "description":"Open 添加connector-API-CODE in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-code.html",
+                        "url":"__connector-api-code.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
