@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"connector__.html",
-  "generationDate":new Date(1477021382893.69),
+  "generationDate":new Date(1477023107293.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1287,12 +1287,31 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"setPanelState",
-                      "description":"Set 删除提示 to 提示",
+                      "description":"Set 删除提示 to 不可删除提示",
                       "panelsToStates":[{
                           "panelPath":["79c1bd3ab789488e845c20fa2b9eb91f"],
                           "stateInfo":{
                             "setStateType":"diagram",
                             "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]},
+{
+                  "description":"Case 2",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set 删除提示 to 可删除提示",
+                      "panelsToStates":[{
+                          "panelPath":["79c1bd3ab789488e845c20fa2b9eb91f"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":3,
                             "stateValue":{
                               "exprType":"stringLiteral",
                               "value":"1",
@@ -1961,7 +1980,7 @@
               "objects":[]},
 {
               "id":"025502ca5be0404bb1bee6f30c8e568c",
-              "label":"提示",
+              "label":"不可删除提示",
               "type":"Axure:PanelDiagram",
               "objects":[{
                   "id":"6b637561375c444cba181570a2b0d5c4",
@@ -2010,7 +2029,7 @@
                       "x":28,
                       "y":32},
                     "size":{
-                      "width":464,
+                      "width":398,
                       "height":16}},
                   "adaptiveStyles":{
 },
@@ -2027,14 +2046,104 @@
                           "x":28,
                           "y":32},
                         "size":{
-                          "width":464,
+                          "width":398,
                           "height":16}},
                       "adaptiveStyles":{
 }}],
                   "images":{
                     "normal~":"resources/images/transparent.gif"}},
 {
-                  "id":"fb155ddb800041369720231091f15d20",
+                  "id":"3fababfab88043e88e0670173c3e0d8f",
+                  "label":"",
+                  "parentDynamicPanel":"79c1bd3ab789488e845c20fa2b9eb91f",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":1010,
+                      "y":28},
+                    "size":{
+                      "width":100,
+                      "height":25}},
+                  "adaptiveStyles":{
+}}]},
+{
+              "id":"9ce8f6b880e0419b9f548db12f2f7e8d",
+              "label":"可删除提示",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"94c8fc5c8fde48ab92545b436790b3bc",
+                  "label":"",
+                  "parentDynamicPanel":"79c1bd3ab789488e845c20fa2b9eb91f",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFCC},
+                    "size":{
+                      "width":1180,
+                      "height":80}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"6cb041f4dc474bf0a4e6917278fada09",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"79c1bd3ab789488e845c20fa2b9eb91f",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFCC},
+                        "size":{
+                          "width":1180,
+                          "height":80}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/connector__/u125.png"}},
+{
+                  "id":"0f64ab156d8f4c7a8539b09f2b2e2464",
+                  "label":"",
+                  "parentDynamicPanel":"79c1bd3ab789488e845c20fa2b9eb91f",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":28,
+                      "y":32},
+                    "size":{
+                      "width":248,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"603e63aa3d5d4a038faa5aa39a586dca",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"79c1bd3ab789488e845c20fa2b9eb91f",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":28,
+                          "y":32},
+                        "size":{
+                          "width":248,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"1caceb0939a0453a938968f9151eb395",
                   "label":"",
                   "parentDynamicPanel":"79c1bd3ab789488e845c20fa2b9eb91f",
                   "type":"button",
@@ -2073,7 +2182,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true},
 {
-                  "id":"3fababfab88043e88e0670173c3e0d8f",
+                  "id":"8d2b93f0450f4418aeaf71cc91e39665",
                   "label":"",
                   "parentDynamicPanel":"79c1bd3ab789488e845c20fa2b9eb91f",
                   "type":"button",
@@ -3053,11 +3162,21 @@
       "scriptId":"u127"},
     "e541f8dd7c6a4c6fa9eb7dcb9690fe91":{
       "scriptId":"u128"},
-    "fb155ddb800041369720231091f15d20":{
-      "scriptId":"u129"},
     "3fababfab88043e88e0670173c3e0d8f":{
+      "scriptId":"u129"},
+    "94c8fc5c8fde48ab92545b436790b3bc":{
       "scriptId":"u130"},
-    "b2405038452a432fad954746392451cf":{
+    "6cb041f4dc474bf0a4e6917278fada09":{
       "scriptId":"u131"},
+    "0f64ab156d8f4c7a8539b09f2b2e2464":{
+      "scriptId":"u132"},
+    "603e63aa3d5d4a038faa5aa39a586dca":{
+      "scriptId":"u133"},
+    "1caceb0939a0453a938968f9151eb395":{
+      "scriptId":"u134"},
+    "8d2b93f0450f4418aeaf71cc91e39665":{
+      "scriptId":"u135"},
+    "b2405038452a432fad954746392451cf":{
+      "scriptId":"u136"},
     "669726e3a00641568f604c3c0176499c":{
-      "scriptId":"u132"}}});
+      "scriptId":"u137"}}});

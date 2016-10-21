@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__connector-jira.html",
-  "generationDate":new Date(1477021401416.08),
+  "generationDate":new Date(1477023127105.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

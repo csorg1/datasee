@@ -1573,26 +1573,26 @@
   position:absolute;
   left:28px;
   top:32px;
-  width:464px;
+  width:398px;
   height:16px;
 }
 #u127_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:464px;
+  width:398px;
   height:16px;
 }
 #u128 {
   position:absolute;
   left:0px;
   top:0px;
-  width:464px;
+  width:398px;
   white-space:nowrap;
 }
 #u129 {
   position:absolute;
-  left:870px;
+  left:1010px;
   top:28px;
   width:100px;
   height:25px;
@@ -1612,14 +1612,77 @@
   font-style:normal;
   text-decoration:none;
 }
+#u124_state2 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1180px;
+  height:80px;
+  visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u124_state2_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
 #u130 {
   position:absolute;
-  left:1010px;
+  left:0px;
+  top:0px;
+  width:1180px;
+  height:80px;
+}
+#u130_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1180px;
+  height:80px;
+}
+#u131 {
+  position:absolute;
+  left:2px;
+  top:32px;
+  width:1176px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u132 {
+  position:absolute;
+  left:28px;
+  top:32px;
+  width:248px;
+  height:16px;
+}
+#u132_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  height:16px;
+}
+#u133 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  white-space:nowrap;
+}
+#u134 {
+  position:absolute;
+  left:870px;
   top:28px;
   width:100px;
   height:25px;
 }
-#u130_input {
+#u134_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -1634,7 +1697,29 @@
   font-style:normal;
   text-decoration:none;
 }
-#u131 {
+#u135 {
+  position:absolute;
+  left:1010px;
+  top:28px;
+  width:100px;
+  height:25px;
+}
+#u135_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:25px;
+  background-image:url(../../resources/images/transparent.gif);
+  text-align:center;
+  font-family:'Arial';
+  font-size:13px;
+  color:#000000;
+  font-weight:normal;
+  font-style:normal;
+  text-decoration:none;
+}
+#u136 {
   position:absolute;
   left:604px;
   top:452px;
@@ -1642,14 +1727,14 @@
   height:16px;
   color:#008000;
 }
-#u131_img {
+#u136_img {
   position:absolute;
   left:0px;
   top:0px;
   width:27px;
   height:16px;
 }
-#u132 {
+#u137 {
   position:absolute;
   left:0px;
   top:0px;

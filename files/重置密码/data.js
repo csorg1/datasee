@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"重置密码.html",
-  "generationDate":new Date(1477021403147.24),
+  "generationDate":new Date(1477023129102.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

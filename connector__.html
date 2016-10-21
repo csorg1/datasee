@@ -591,7 +591,7 @@
           <div id="u124_state0_content" class="panel_state_content">
           </div>
         </div>
-        <div id="u124_state1" class="panel_state" data-label="提示">
+        <div id="u124_state1" class="panel_state" data-label="不可删除提示">
           <div id="u124_state1_content" class="panel_state_content">
 
             <!-- Unnamed (Shape) -->
@@ -606,28 +606,53 @@
               <img id="u127_img" class="img " src="resources/images/transparent.gif"/>
               <!-- Unnamed () -->
               <div id="u128" class="text">
-                <p><span>删除数据源意味着所有相关的数据报表和dashboard都将被删除，确认要删除吗？</span></p>
+                <p><span style="color:#333333;">这个数据源关联到</span><span style="color:#0000FF;">3个数据集</span><span style="color:#333333;">，请先删除关联的数据集再</span><span style="color:#333333;">删除</span><span style="color:#333333;">数据源。</span></p>
               </div>
             </div>
 
             <!-- Unnamed (HTML Button) -->
             <div id="u129" class="ax_html_button">
-              <input id="u129_input" type="submit" value="取消"/>
+              <input id="u129_input" type="submit" value="知道了"/>
+            </div>
+          </div>
+        </div>
+        <div id="u124_state2" class="panel_state" data-label="可删除提示">
+          <div id="u124_state2_content" class="panel_state_content">
+
+            <!-- Unnamed (Shape) -->
+            <div id="u130" class="ax_shape">
+              <img id="u130_img" class="img " src="images/connector__/u125.png"/>
+              <!-- Unnamed () -->
+              <div id="u131" class="text"></div>
+            </div>
+
+            <!-- Unnamed (Shape) -->
+            <div id="u132" class="ax_paragraph">
+              <img id="u132_img" class="img " src="resources/images/transparent.gif"/>
+              <!-- Unnamed () -->
+              <div id="u133" class="text">
+                <p><span>此删除不可恢复，确认要删除这个数据源？</span></p>
+              </div>
             </div>
 
             <!-- Unnamed (HTML Button) -->
-            <div id="u130" class="ax_html_button">
-              <input id="u130_input" type="submit" value="确认"/>
+            <div id="u134" class="ax_html_button">
+              <input id="u134_input" type="submit" value="取消"/>
+            </div>
+
+            <!-- Unnamed (HTML Button) -->
+            <div id="u135" class="ax_html_button">
+              <input id="u135_input" type="submit" value="确认"/>
             </div>
           </div>
         </div>
       </div>
 
       <!-- Unnamed (Shape) -->
-      <div id="u131" class="ax_paragraph">
-        <img id="u131_img" class="img " src="resources/images/transparent.gif"/>
+      <div id="u136" class="ax_paragraph">
+        <img id="u136_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
-        <div id="u132" class="text">
+        <div id="u137" class="text">
           <p><span>正常</span></p>
         </div>
       </div>
