@@ -41,17 +41,17 @@
                     "type":"Wireframe",
                     "url":"选择数据源类型.html"},
 {
-                    "pageName":"创建数据源-DB-Mysql",
+                    "pageName":"创建数据源Mysql",
                     "type":"Wireframe",
-                    "url":"_____-db-mysql.html"},
+                    "url":"创建数据源mysql.html"},
 {
-                    "pageName":"创建数据源-API-CODE",
+                    "pageName":"创建数据源CODE",
                     "type":"Wireframe",
-                    "url":"_____-api-code.html"},
+                    "url":"创建数据源code.html"},
 {
-                    "pageName":"创建数据源-API-jira",
+                    "pageName":"创建数据源jira",
                     "type":"Wireframe",
-                    "url":"_____-api-jira.html"}]},
+                    "url":"创建数据源jira.html"}]},
 {
                 "pageName":"数据集列表",
                 "type":"Wireframe",
@@ -61,13 +61,13 @@
                     "type":"Wireframe",
                     "url":"数据集列表-没有数据时.html"},
 {
-                    "pageName":"创建数据集DB- mysql",
+                    "pageName":"创建数据集mysql",
                     "type":"Wireframe",
-                    "url":"_____db-_mysql.html"},
+                    "url":"创建数据集mysql.html"},
 {
-                    "pageName":"创建数据集API- CODE",
+                    "pageName":"创建数据集CODE",
                     "type":"Wireframe",
-                    "url":"_____api-_code.html"},
+                    "url":"创建数据集code.html"},
 {
                     "pageName":"弹窗-预览数据",
                     "type":"Wireframe",
@@ -133,6 +133,10 @@
             "type":"Folder",
             "url":"",
             "children":[{
+                "pageName":"用户注册流程",
+                "type":"Wireframe",
+                "url":"用户注册流程.html"},
+{
                 "pageName":"创建租户",
                 "type":"Wireframe",
                 "url":"创建租户.html",

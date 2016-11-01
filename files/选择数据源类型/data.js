@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择数据源类型.html",
-  "generationDate":new Date(1477972940260.26),
+  "generationDate":new Date(1477984842994.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -188,15 +188,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 创建数据源-API-jira in Current Window",
+                      "description":"Open 创建数据源jira in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"_____-api-jira.html",
+                        "url":"创建数据源jira.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择数据源类型/u7.png"}},
+            "normal~":"images/home-____1/u20.png"}},
 {
           "id":"94467f05c095447f949082c258719c57",
           "label":"",
@@ -236,15 +236,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 创建数据源-DB-Mysql in Current Window",
+                      "description":"Open 创建数据源Mysql in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"_____-db-mysql.html",
+                        "url":"创建数据源mysql.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/_____-db-mysql/u69.png"}},
+            "normal~":"images/home-____1/u22.png"}},
 {
           "id":"a8e7804d612b4f2ba66d69c388b3cd3e",
           "label":"",
@@ -284,15 +284,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 创建数据源-API-CODE in Current Window",
+                      "description":"Open 创建数据源CODE in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"_____-api-code.html",
+                        "url":"创建数据源code.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/选择数据源类型/u11.png"}},
+            "normal~":"images/home-____1/u24.png"}},
 {
           "id":"585a50f981de4a24939c7f1c8b439e6b",
           "label":"",
@@ -325,7 +325,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择数据源类型/u13.png"}},
+            "normal~":"images/home-____1/u26.png"}},
 {
           "id":"3c95f1e6bcc04a9ab9e86039d67845c9",
           "label":"",
@@ -370,7 +370,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择数据源类型/u15.png"}},
+            "normal~":"images/home-____1/u28.png"}},
 {
           "id":"5db33216f8e648c38b616c3d80b6bbdb",
           "label":"",

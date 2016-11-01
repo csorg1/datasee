@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"添加用户组.html",
-  "generationDate":new Date(1477972938391.02),
+  "generationDate":new Date(1477984830263.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

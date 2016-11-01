@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"邀请新用户.html",
-  "generationDate":new Date(1477972937856.65),
+  "generationDate":new Date(1477984829752.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
