@@ -29,29 +29,29 @@
             "type":"Folder",
             "url":"",
             "children":[{
-                "pageName":"connector列表",
+                "pageName":"数据源列表",
                 "type":"Wireframe",
-                "url":"connector__.html",
+                "url":"数据源列表.html",
                 "children":[{
-                    "pageName":"connector列表-没有数据时",
+                    "pageName":"数据源列表-没有数据时",
                     "type":"Wireframe",
-                    "url":"connector__-_____.html"},
+                    "url":"数据源列表-没有数据时.html"},
 {
                     "pageName":"选择数据源类型",
                     "type":"Wireframe",
                     "url":"选择数据源类型.html"},
 {
-                    "pageName":"添加connector-DB-Mysql",
+                    "pageName":"创建数据源-DB-Mysql",
                     "type":"Wireframe",
-                    "url":"__connector-db-mysql.html"},
+                    "url":"_____-db-mysql.html"},
 {
-                    "pageName":"添加connector-API-CODE",
+                    "pageName":"创建数据源-API-CODE",
                     "type":"Wireframe",
-                    "url":"__connector-api-code.html"},
+                    "url":"_____-api-code.html"},
 {
-                    "pageName":"添加connector-jira",
+                    "pageName":"创建数据源-API-jira",
                     "type":"Wireframe",
-                    "url":"__connector-jira.html"}]},
+                    "url":"_____-api-jira.html"}]},
 {
                 "pageName":"数据集列表",
                 "type":"Wireframe",
@@ -85,9 +85,9 @@
                     "type":"Wireframe",
                     "url":"数据集详情-数据报表.html",
                     "children":[{
-                        "pageName":"数据集详情-更新历史CODE",
+                        "pageName":"数据集详情-变更日志CODE",
                         "type":"Wireframe",
-                        "url":"数据集详情-更新历史code.html"},
+                        "url":"数据集详情-变更日志code.html"},
 {
                         "pageName":"数据集详情-数据模型",
                         "type":"Wireframe",
@@ -137,6 +137,10 @@
                 "type":"Wireframe",
                 "url":"创建租户.html",
                 "children":[{
+                    "pageName":"设置域名",
+                    "type":"Wireframe",
+                    "url":"设置域名.html"},
+{
                     "pageName":"邮件激活",
                     "type":"Wireframe",
                     "url":"邮件激活.html",
@@ -148,10 +152,6 @@
                     "pageName":"设置密码",
                     "type":"Wireframe",
                     "url":"设置密码.html"},
-{
-                    "pageName":"设置域名",
-                    "type":"Wireframe",
-                    "url":"设置域名.html"},
 {
                     "pageName":"注册完成",
                     "type":"Wireframe",

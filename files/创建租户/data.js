@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"创建租户.html",
-  "generationDate":new Date(1477023111520.86),
+  "generationDate":new Date(1477972936681.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -71,10 +71,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 邮件激活 in Current Window",
+                      "description":"Open 设置域名 in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"邮件激活.html",
+                        "url":"设置域名.html",
                         "includeVariables":true},
                       "linkType":"current"}]},
 {
@@ -360,7 +360,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/connector__/u3.png"}},
+              "normal~":"images/数据源列表/u3.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",

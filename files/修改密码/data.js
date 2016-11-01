@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"修改密码.html",
-  "generationDate":new Date(1477023126364.75),
+  "generationDate":new Date(1477972946728.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

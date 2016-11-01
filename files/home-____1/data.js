@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"home-____1.html",
-  "generationDate":new Date(1477023120854.08),
+  "generationDate":new Date(1477972942900.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -137,19 +137,12 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 邮件激活 in Current Window",
+                      "description":"Open 设置域名 in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"邮件激活.html",
+                        "url":"设置域名.html",
                         "includeVariables":true},
-                      "linkType":"current"}]},
-{
-                  "description":"Case 2",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"setPanelState",
-                      "description":"Set Panel to State",
-                      "panelsToStates":[]}]}]}},
+                      "linkType":"current"}]}]}},
           "tabbable":true},
 {
           "id":"9b9df76742744b4390434191e01b7122",
@@ -346,7 +339,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/connector__/u43.png"}},
+            "normal~":"images/数据源列表/u43.png"}},
 {
           "id":"3962f5f31132479bb6fd7fc1ee090e57",
           "label":"",
@@ -454,10 +447,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-jira in Current Window",
+                      "description":"Open 创建数据源-API-jira in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-jira.html",
+                        "url":"_____-api-jira.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -502,15 +495,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-DB-Mysql in Current Window",
+                      "description":"Open 创建数据源-DB-Mysql in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-db-mysql.html",
+                        "url":"_____-db-mysql.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/__connector-db-mysql/u69.png"}},
+            "normal~":"images/_____-db-mysql/u69.png"}},
 {
           "id":"931f837433144f2b9fb58fab5194844b",
           "label":"",
@@ -550,10 +543,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-API-CODE in Current Window",
+                      "description":"Open 创建数据源-API-CODE in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-api-code.html",
+                        "url":"_____-api-code.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

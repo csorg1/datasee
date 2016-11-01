@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"邀请新用户.html",
-  "generationDate":new Date(1477023113510.19),
+  "generationDate":new Date(1477972937856.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -127,7 +127,7 @@
               "x":310,
               "y":210},
             "size":{
-              "width":300,
+              "width":460,
               "height":50}},
           "adaptiveStyles":{
 }},
@@ -143,24 +143,6 @@
               "y":130},
             "size":{
               "width":460,
-              "height":50}},
-          "adaptiveStyles":{
-}},
-{
-          "id":"3b6f4be88e9c4468981aeb277b377cdc",
-          "label":"",
-          "type":"textBox",
-          "styleType":"textBox",
-          "visible":true,
-          "style":{
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC},
-            "location":{
-              "x":610,
-              "y":210},
-            "size":{
-              "width":160,
               "height":50}},
           "adaptiveStyles":{
 }},
@@ -321,23 +303,21 @@
       "scriptId":"u5"},
     "e2f06b31fb624d15bdc15eec712f2061":{
       "scriptId":"u6"},
-    "3b6f4be88e9c4468981aeb277b377cdc":{
-      "scriptId":"u7"},
     "fe69f5b60eea42b6b43f95f74595e64b":{
-      "scriptId":"u8"},
+      "scriptId":"u7"},
     "945f7710b4c6438ea2e28184187bf57c":{
-      "scriptId":"u9"},
+      "scriptId":"u8"},
     "d6725683e1d740d3a0daa50894dd2c41":{
-      "scriptId":"u10"},
+      "scriptId":"u9"},
     "46046157479d4c6494fb93182b119de2":{
-      "scriptId":"u11"},
+      "scriptId":"u10"},
     "893ed26a94c642d8b41dd3806bdf7a57":{
-      "scriptId":"u12"},
+      "scriptId":"u11"},
     "28c4c64ef8024be09263edcbfb467b73":{
-      "scriptId":"u13"},
+      "scriptId":"u12"},
     "b579a960f2d243c2939b3b335aaa0b4a":{
-      "scriptId":"u14"},
+      "scriptId":"u13"},
     "930e0e6eeaf043baa2380b9c8d66eb02":{
-      "scriptId":"u15"},
+      "scriptId":"u14"},
     "d45703b0785c4249a86357d63c08a9dd":{
-      "scriptId":"u16"}}});
+      "scriptId":"u15"}}});

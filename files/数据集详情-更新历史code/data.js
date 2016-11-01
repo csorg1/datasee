@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"数据集详情-更新历史code.html",
-  "generationDate":new Date(1477023123835.07),
+  "generationDate":new Date(1477970384203.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -86,7 +86,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/connector__/u32.png"}},
+            "normal~":"images/数据源列表/u32.png"}},
 {
           "id":"1da04f9767cf4d50ade8611915038ef2",
           "label":"",
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/connector__/u54.png"}},
+            "normal~":"images/数据源列表/u54.png"}},
 {
           "id":"f327ab52f18144ecacf80e7374bbedde",
           "label":"",
@@ -320,7 +320,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/connector__/u58_line.png"}},
+            "line~":"images/数据源列表/u58_line.png"}},
 {
           "id":"c12f0ca2eb1b4f23aeb476e18d589c9f",
           "label":"",
@@ -368,10 +368,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-DB-Mysql in Current Window",
+                      "description":"Open 创建数据源-DB-Mysql in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-db-mysql.html",
+                        "url":"_____-db-mysql.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -471,7 +471,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/connector__/u77.png"}},
+            "normal~":"images/数据源列表/u75.png"}},
 {
           "id":"ba784c19de22492c9856e6d48b36c375",
           "label":"",
@@ -512,7 +512,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/connector__/u92.png"}},
+            "normal~":"images/数据源列表/u90.png"}},
 {
           "id":"34cdc40ed1c14cd19cf67846b6ade370",
           "label":"",
@@ -580,7 +580,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/connector__/u43.png"}},
+            "normal~":"images/数据源列表/u43.png"}},
 {
           "id":"8b7ccccf3a024fdead5cde17128ef19d",
           "label":"",
@@ -615,7 +615,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/connector__/u43.png"}},
+            "normal~":"images/数据源列表/u43.png"}},
 {
           "id":"51abb0aa956a44d3af0764459d7ec2de",
           "label":"",
@@ -986,7 +986,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/connector__/u3.png"}},
+              "normal~":"images/数据源列表/u3.png"}},
 {
             "id":"3bcafff37ae64af2bea60047cfc6b6d6",
             "label":"",
@@ -1050,7 +1050,7 @@
                                 "compress":false}}}]}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/connector__/u5.png"}},
+              "normal~":"images/数据源列表/u5.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",
@@ -1124,7 +1124,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/connector__/u9.png"}},
+              "normal~":"images/数据源列表/u9.png"}},
 {
             "id":"3057107345934e169d773a87fd4ca5bf",
             "label":"",
@@ -1173,7 +1173,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/connector__/u11.png"}},
+              "normal~":"images/数据源列表/u11.png"}},
 {
             "id":"28baee9b1f8d490f84c240cd46dba014",
             "label":"",
@@ -1399,7 +1399,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/connector__/u22.png"}},
+                      "normal~":"images/数据源列表/u22.png"}},
 {
                     "id":"060533122f194eee8fbb0026893375b6",
                     "label":"",
@@ -1542,7 +1542,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/connector__/u28.png"}},
+                      "normal~":"images/数据源列表/u28.png"}},
 {
                     "id":"5a0767b803ff48b383c34492015edc99",
                     "label":"",
@@ -1585,7 +1585,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/connector__/u30.png"}}]}]}]}}},
+                      "normal~":"images/数据源列表/u30.png"}}]}]}]}}},
   "objectPaths":{
     "4e577f78fdae45c3a9b0ac1b55a3f220":{
       "scriptId":"u0",

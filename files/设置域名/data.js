@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"设置域名.html",
-  "generationDate":new Date(1477023116309.05),
+  "generationDate":new Date(1477972939787.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -252,8 +252,8 @@
               "x":30,
               "y":141},
             "size":{
-              "width":180,
-              "height":49}},
+              "width":280,
+              "height":59}},
           "adaptiveStyles":{
 }},
 {
@@ -265,37 +265,27 @@
           "style":{
             "location":{
               "x":30,
-              "y":269.5},
+              "y":301},
             "size":{
               "width":300,
               "height":41}},
           "adaptiveStyles":{
-}},
-{
-          "id":"c0470be345f0408a87916ad07154acb7",
-          "label":"",
-          "type":"textBox",
-          "styleType":"textBox",
-          "visible":true,
-          "style":{
-            "fontName":"'Arial Negreta', 'Arial'",
-            "fontSize":"16px",
-            "fontWeight":"700",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFFFFFF,
-              "opacity":1},
-            "fill":{
-              "fillType":"solid",
-              "color":0xFF999999},
-            "location":{
-              "x":209,
-              "y":141},
-            "size":{
-              "width":121,
-              "height":49}},
-          "adaptiveStyles":{
-}},
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 邮件激活 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"邮件激活.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
 {
           "id":"4162eb890dc94c208bc9832592fea3b3",
           "label":"",
@@ -311,7 +301,7 @@
               "y":207},
             "size":{
               "width":340,
-              "height":48}},
+              "height":80}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -330,11 +320,175 @@
                   "y":207},
                 "size":{
                   "width":340,
-                  "height":48}},
+                  "height":80}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/设置域名/u43.png"}}]}},
+            "normal~":"images/设置域名/u42.png"}},
+{
+          "id":"bb6d8a5aecb24e769cd6b6c083d92ff7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":320,
+              "y":156},
+            "size":{
+              "width":20,
+              "height":20},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0354fb2669fd403b84133ac5072cab89",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":320,
+                  "y":156},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/设置域名/u44.png"}},
+{
+          "id":"ad9434a05daf470ba130202b747490b3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":340,
+              "y":156},
+            "size":{
+              "width":20,
+              "height":20},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4232cc03fa924aff94d56021cd43e465",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":340,
+                  "y":156},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/设置域名/u46.png"}},
+{
+          "id":"ba5a6842f281498e8a90d17ec0765fbc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF333333},
+            "location":{
+              "x":350,
+              "y":116},
+            "size":{
+              "width":180,
+              "height":84},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"486454d4d42b4ab19d68225de7196798",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF333333},
+                "location":{
+                  "x":350,
+                  "y":116},
+                "size":{
+                  "width":180,
+                  "height":84},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/设置域名/u48.png"}},
+{
+          "id":"2a3a863a55904916a14d1cfd775f46f5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "location":{
+              "x":50,
+              "y":364},
+            "size":{
+              "width":260,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"38ab4e826d34423ca1acf9749ca3ec27",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "location":{
+                  "x":50,
+                  "y":364},
+                "size":{
+                  "width":260,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "5542c2b03c214be0825ca9668913f769":{
       "packageId":"5542c2b03c214be0825ca9668913f769",
@@ -400,7 +554,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/connector__/u3.png"}},
+              "normal~":"images/数据源列表/u3.png"}},
 {
             "id":"3bcafff37ae64af2bea60047cfc6b6d6",
             "label":"",
@@ -464,7 +618,7 @@
                                 "compress":false}}}]}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/connector__/u5.png"}},
+              "normal~":"images/数据源列表/u5.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",
@@ -538,7 +692,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/connector__/u9.png"}},
+              "normal~":"images/数据源列表/u9.png"}},
 {
             "id":"3057107345934e169d773a87fd4ca5bf",
             "label":"",
@@ -587,7 +741,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/connector__/u11.png"}},
+              "normal~":"images/数据源列表/u11.png"}},
 {
             "id":"28baee9b1f8d490f84c240cd46dba014",
             "label":"",
@@ -813,7 +967,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/connector__/u22.png"}},
+                      "normal~":"images/数据源列表/u22.png"}},
 {
                     "id":"060533122f194eee8fbb0026893375b6",
                     "label":"",
@@ -956,7 +1110,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/connector__/u28.png"}},
+                      "normal~":"images/数据源列表/u28.png"}},
 {
                     "id":"5a0767b803ff48b383c34492015edc99",
                     "label":"",
@@ -999,7 +1153,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/connector__/u30.png"}}]}]}]}}},
+                      "normal~":"images/数据源列表/u30.png"}}]}]}]}}},
   "objectPaths":{
     "b7e326d5c55544f0a3633bde30843336":{
       "scriptId":"u0",
@@ -1085,9 +1239,23 @@
       "scriptId":"u40"},
     "d0c515dddd444b3c8b52882d91ee9aea":{
       "scriptId":"u41"},
-    "c0470be345f0408a87916ad07154acb7":{
-      "scriptId":"u42"},
     "4162eb890dc94c208bc9832592fea3b3":{
-      "scriptId":"u43"},
+      "scriptId":"u42"},
     "86913eeaef29470892e54f141aafd2f7":{
-      "scriptId":"u44"}}});
+      "scriptId":"u43"},
+    "bb6d8a5aecb24e769cd6b6c083d92ff7":{
+      "scriptId":"u44"},
+    "0354fb2669fd403b84133ac5072cab89":{
+      "scriptId":"u45"},
+    "ad9434a05daf470ba130202b747490b3":{
+      "scriptId":"u46"},
+    "4232cc03fa924aff94d56021cd43e465":{
+      "scriptId":"u47"},
+    "ba5a6842f281498e8a90d17ec0765fbc":{
+      "scriptId":"u48"},
+    "486454d4d42b4ab19d68225de7196798":{
+      "scriptId":"u49"},
+    "2a3a863a55904916a14d1cfd775f46f5":{
+      "scriptId":"u50"},
+    "38ab4e826d34423ca1acf9749ca3ec27":{
+      "scriptId":"u51"}}});

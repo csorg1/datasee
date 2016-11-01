@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择数据源类型.html",
-  "generationDate":new Date(1477023116896.44),
+  "generationDate":new Date(1477972940260.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -188,10 +188,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-jira in Current Window",
+                      "description":"Open 创建数据源-API-jira in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-jira.html",
+                        "url":"_____-api-jira.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -236,15 +236,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-DB-Mysql in Current Window",
+                      "description":"Open 创建数据源-DB-Mysql in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-db-mysql.html",
+                        "url":"_____-db-mysql.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/__connector-db-mysql/u69.png"}},
+            "normal~":"images/_____-db-mysql/u69.png"}},
 {
           "id":"a8e7804d612b4f2ba66d69c388b3cd3e",
           "label":"",
@@ -284,10 +284,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 添加connector-API-CODE in Current Window",
+                      "description":"Open 创建数据源-API-CODE in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"__connector-api-code.html",
+                        "url":"_____-api-code.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
