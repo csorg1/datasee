@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"租户信息.html",
-  "generationDate":new Date(1477984838461.39),
+  "generationDate":new Date(1478589041254.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -360,7 +360,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u11.png"}},
+            "normal~":"images/报表功能-图/u16.png"}},
 {
           "id":"06c5d370e0914668acc84505c1b78899",
           "label":"",
@@ -541,7 +541,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u34.png"}},
+            "normal~":"images/报表功能-图/u39.png"}},
 {
           "id":"4aa8a804dff34e0a8dadb5266160e024",
           "label":"",
@@ -895,7 +895,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u9.png"}},
+              "normal~":"images/报表功能-图/u14.png"}},
 {
             "id":"3bcafff37ae64af2bea60047cfc6b6d6",
             "label":"",
@@ -959,7 +959,7 @@
                                 "compress":false}}}]}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/报表功能-图/u11.png"}},
+              "normal~":"images/报表功能-图/u16.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",
@@ -1033,7 +1033,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u15.png"}},
+              "normal~":"images/报表功能-图/u20.png"}},
 {
             "id":"3057107345934e169d773a87fd4ca5bf",
             "label":"",
@@ -1082,7 +1082,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u17.png"}},
+              "normal~":"images/报表功能-图/u22.png"}},
 {
             "id":"28baee9b1f8d490f84c240cd46dba014",
             "label":"",
@@ -1308,7 +1308,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u28.png"}},
+                      "normal~":"images/报表功能-图/u33.png"}},
 {
                     "id":"060533122f194eee8fbb0026893375b6",
                     "label":"",
@@ -1451,7 +1451,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u34.png"}},
+                      "normal~":"images/报表功能-图/u39.png"}},
 {
                     "id":"5a0767b803ff48b383c34492015edc99",
                     "label":"",
@@ -1494,7 +1494,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u36.png"}}]}]}]}}},
+                      "normal~":"images/报表功能-图/u41.png"}}]}]}]}}},
   "objectPaths":{
     "d683db5384f3450ab0b04ad2a9a5acb0":{
       "scriptId":"u0"},

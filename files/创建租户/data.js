@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"创建租户.html",
-  "generationDate":new Date(1477984828409.69),
+  "generationDate":new Date(1478589028550.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -360,7 +360,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u9.png"}},
+              "normal~":"images/报表功能-图/u14.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",

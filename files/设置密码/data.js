@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"设置密码.html",
-  "generationDate":new Date(1477984831355.65),
+  "generationDate":new Date(1478589031805.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -403,7 +403,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u9.png"}},
+              "normal~":"images/报表功能-图/u14.png"}},
 {
             "id":"3bcafff37ae64af2bea60047cfc6b6d6",
             "label":"",
@@ -467,7 +467,7 @@
                                 "compress":false}}}]}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/报表功能-图/u11.png"}},
+              "normal~":"images/报表功能-图/u16.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",
@@ -541,7 +541,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u15.png"}},
+              "normal~":"images/报表功能-图/u20.png"}},
 {
             "id":"3057107345934e169d773a87fd4ca5bf",
             "label":"",
@@ -590,7 +590,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u17.png"}},
+              "normal~":"images/报表功能-图/u22.png"}},
 {
             "id":"28baee9b1f8d490f84c240cd46dba014",
             "label":"",
@@ -816,7 +816,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u28.png"}},
+                      "normal~":"images/报表功能-图/u33.png"}},
 {
                     "id":"060533122f194eee8fbb0026893375b6",
                     "label":"",
@@ -959,7 +959,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u34.png"}},
+                      "normal~":"images/报表功能-图/u39.png"}},
 {
                     "id":"5a0767b803ff48b383c34492015edc99",
                     "label":"",
@@ -1002,7 +1002,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u36.png"}}]}]}]}}},
+                      "normal~":"images/报表功能-图/u41.png"}}]}]}]}}},
   "objectPaths":{
     "b7e326d5c55544f0a3633bde30843336":{
       "scriptId":"u0",

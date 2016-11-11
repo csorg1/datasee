@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"创建数据源mysql.html",
-  "generationDate":new Date(1477984843211.55),
+  "generationDate":new Date(1478589048067.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -325,7 +325,9 @@
               "width":510,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "annotation":{
+            "Description":"编辑时不可修改，变灰"}},
 {
           "id":"db417f29d22742689abedd7d1794b902",
           "label":"",
@@ -344,7 +346,9 @@
               "width":510,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "annotation":{
+            "Description":"编辑时不可修改，变灰"}},
 {
           "id":"d5272aac33b64099b773388bcf1b8dc0",
           "label":"",
@@ -363,7 +367,9 @@
               "width":510,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "annotation":{
+            "Description":"编辑时不可修改，变灰"}},
 {
           "id":"058ad97e9437426c98f1eebd4d7b6766",
           "label":"",
@@ -582,7 +588,9 @@
               "width":510,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "annotation":{
+            "Description":"编辑时不可修改，变灰"}},
 {
           "id":"0c86782bdd2642249a2e31b33d2d2351",
           "label":"",
@@ -601,7 +609,9 @@
               "width":510,
               "height":94}},
           "adaptiveStyles":{
-}},
+},
+          "annotation":{
+            "Description":"编辑时可修改"}},
 {
           "id":"484159b004a7426393a92fdfd0dcb8f2",
           "label":"",
@@ -653,7 +663,9 @@
               "width":510,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "annotation":{
+            "Description":"编辑时可修改"}},
 {
           "id":"e8cebd83c55b49e183ac147cdc0a7be0",
           "label":"",
@@ -844,7 +856,9 @@
               "width":510,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "annotation":{
+            "Description":"编辑时可修改"}},
 {
           "id":"c009cef37f594d85b35ef0554059a601",
           "label":"",
@@ -1010,7 +1024,52 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/数据集列表/u47.png"}}]}},
+            "normal~":"images/数据集列表/u47.png"}},
+{
+          "id":"53cec0bf645e4c78968e1c784619cb19",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":267,
+              "y":630},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1e8910de9d374074afce3c95cdf5cb26",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":267,
+                  "y":630},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "5542c2b03c214be0825ca9668913f769":{
       "packageId":"5542c2b03c214be0825ca9668913f769",
@@ -1076,7 +1135,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u9.png"}},
+              "normal~":"images/报表功能-图/u14.png"}},
 {
             "id":"3bcafff37ae64af2bea60047cfc6b6d6",
             "label":"",
@@ -1140,7 +1199,7 @@
                                 "compress":false}}}]}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/报表功能-图/u11.png"}},
+              "normal~":"images/报表功能-图/u16.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",
@@ -1214,7 +1273,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u15.png"}},
+              "normal~":"images/报表功能-图/u20.png"}},
 {
             "id":"3057107345934e169d773a87fd4ca5bf",
             "label":"",
@@ -1263,7 +1322,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u17.png"}},
+              "normal~":"images/报表功能-图/u22.png"}},
 {
             "id":"28baee9b1f8d490f84c240cd46dba014",
             "label":"",
@@ -1489,7 +1548,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u28.png"}},
+                      "normal~":"images/报表功能-图/u33.png"}},
 {
                     "id":"060533122f194eee8fbb0026893375b6",
                     "label":"",
@@ -1632,7 +1691,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u34.png"}},
+                      "normal~":"images/报表功能-图/u39.png"}},
 {
                     "id":"5a0767b803ff48b383c34492015edc99",
                     "label":"",
@@ -1675,7 +1734,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u36.png"}}]}]}]}}},
+                      "normal~":"images/报表功能-图/u41.png"}}]}]}]}}},
   "objectPaths":{
     "ca573c50a3a64d9db2529eacf5104b69":{
       "scriptId":"u0"},
@@ -1830,4 +1889,8 @@
     "60ce7a5a3f79446389fa44c9c0e35e64":{
       "scriptId":"u75"},
     "5a35e04f96bf47e397c972bd98a4d19e":{
-      "scriptId":"u76"}}});
+      "scriptId":"u76"},
+    "53cec0bf645e4c78968e1c784619cb19":{
+      "scriptId":"u77"},
+    "1e8910de9d374074afce3c95cdf5cb26":{
+      "scriptId":"u78"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"用户登录.html",
-  "generationDate":new Date(1477984828489.74),
+  "generationDate":new Date(1478589028678.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -170,7 +170,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u9.png"}},
+              "normal~":"images/报表功能-图/u14.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"创建数据源code.html",
-  "generationDate":new Date(1477987441007.66),
+  "generationDate":new Date(1478589048503.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -73,7 +73,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/创建数据源code/regen/u0.png"}},
+            "normal~":"images/创建数据集mysql/u40.png"}},
 {
           "id":"79006635523f495c8be17591d4b4d4f6",
           "label":"",
@@ -131,7 +131,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/创建数据源code/regen/u32.png"}},
+            "normal~":"images/数据集列表/u30.png"}},
 {
           "id":"4ed39a9849304a18bd4eaf57c3c1be70",
           "label":"",
@@ -281,7 +281,7 @@
           "style":{
             "location":{
               "x":359,
-              "y":820},
+              "y":851},
             "size":{
               "width":140,
               "height":30},
@@ -298,7 +298,7 @@
               "style":{
                 "location":{
                   "x":359,
-                  "y":820},
+                  "y":851},
                 "size":{
                   "width":140,
                   "height":30},
@@ -306,7 +306,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/创建数据源code/regen/u42.png"}},
+            "normal~":"images/数据集列表/u47.png"}},
 {
           "id":"a2a747cf133c4e8ab60b02838b27f581",
           "label":"",
@@ -399,7 +399,7 @@
               "color":0xFFD7D7D7},
             "location":{
               "x":28,
-              "y":554},
+              "y":585},
             "size":{
               "width":1002,
               "height":40},
@@ -421,7 +421,7 @@
                   "color":0xFFD7D7D7},
                 "location":{
                   "x":28,
-                  "y":554},
+                  "y":585},
                 "size":{
                   "width":1002,
                   "height":40},
@@ -431,7 +431,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/创建数据源code/regen/u0.png"}},
+            "normal~":"images/创建数据集mysql/u40.png"}},
 {
           "id":"115990202db9497ead1635456794ce36",
           "label":"",
@@ -442,7 +442,7 @@
             "fontSize":"14px",
             "location":{
               "x":48,
-              "y":564},
+              "y":595},
             "size":{
               "width":57,
               "height":16}},
@@ -459,7 +459,7 @@
                 "fontSize":"14px",
                 "location":{
                   "x":48,
-                  "y":564},
+                  "y":595},
                 "size":{
                   "width":57,
                   "height":16}},
@@ -476,7 +476,7 @@
           "style":{
             "location":{
               "x":60,
-              "y":644},
+              "y":675},
             "size":{
               "width":140,
               "height":30}},
@@ -493,7 +493,7 @@
           "style":{
             "location":{
               "x":250,
-              "y":644},
+              "y":675},
             "size":{
               "width":140,
               "height":30}},
@@ -508,7 +508,7 @@
           "style":{
             "location":{
               "x":60,
-              "y":610},
+              "y":641},
             "size":{
               "width":100,
               "height":16}},
@@ -524,7 +524,7 @@
               "style":{
                 "location":{
                   "x":60,
-                  "y":610},
+                  "y":641},
                 "size":{
                   "width":100,
                   "height":16}},
@@ -539,7 +539,7 @@
           "style":{
             "location":{
               "x":60,
-              "y":704},
+              "y":735},
             "size":{
               "width":100,
               "height":16}},
@@ -555,7 +555,7 @@
               "style":{
                 "location":{
                   "x":60,
-                  "y":704},
+                  "y":735},
                 "size":{
                   "width":100,
                   "height":16}},
@@ -607,7 +607,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/创建数据源code/regen/u59.png"}},
+            "normal~":"images/创建数据集mysql/u51.png"}},
 {
           "id":"1df6057aa46646b4a1d592a42034c5aa",
           "label":"",
@@ -617,7 +617,7 @@
           "style":{
             "location":{
               "x":990,
-              "y":560},
+              "y":591},
             "size":{
               "width":30,
               "height":30},
@@ -637,7 +637,7 @@
               "style":{
                 "location":{
                   "x":990,
-                  "y":560},
+                  "y":591},
                 "size":{
                   "width":30,
                   "height":30},
@@ -648,7 +648,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/创建数据源code/regen/u61.png"}},
+            "normal~":"images/创建数据集mysql/u44.png"}},
 {
           "id":"6703c8a56aab4f5f8a7ff789b96fa469",
           "label":"",
@@ -695,10 +695,10 @@
           "visible":true,
           "style":{
             "location":{
-              "x":60,
-              "y":514},
+              "x":770,
+              "y":472},
             "size":{
-              "width":700,
+              "width":240,
               "height":30}},
           "adaptiveStyles":{
 },
@@ -766,7 +766,7 @@
           "style":{
             "location":{
               "x":559,
-              "y":820},
+              "y":851},
             "size":{
               "width":140,
               "height":30},
@@ -783,7 +783,7 @@
               "style":{
                 "location":{
                   "x":559,
-                  "y":820},
+                  "y":851},
                 "size":{
                   "width":140,
                   "height":30},
@@ -806,7 +806,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/创建数据源code/regen/u42.png"}},
+            "normal~":"images/数据集列表/u47.png"}},
 {
           "id":"f137d96270d74525a964fa4da4c22445",
           "label":"",
@@ -896,7 +896,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/创建数据源code/regen/u0.png"}},
+            "normal~":"images/创建数据集mysql/u40.png"}},
 {
           "id":"7dd46cf8c798449dbd6c4d3b72284312",
           "label":"",
@@ -978,7 +978,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/创建数据源code/regen/u59.png"}},
+            "normal~":"images/创建数据集mysql/u51.png"}},
 {
           "id":"34b082b56c9a449c88aec262c7d350a8",
           "label":"",
@@ -1041,7 +1041,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/创建数据源code/regen/u78.png"}},
+            "normal~":"images/home-____1/u24.png"}},
 {
           "id":"32a498f53019494dace5284b1c90b104",
           "label":"",
@@ -1084,7 +1084,7 @@
           "style":{
             "location":{
               "x":370,
-              "y":690},
+              "y":721},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFFF0000}},
@@ -1100,7 +1100,7 @@
               "style":{
                 "location":{
                   "x":370,
-                  "y":690},
+                  "y":721},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFFF0000}},
@@ -1115,7 +1115,7 @@
           "style":{
             "location":{
               "x":440,
-              "y":644},
+              "y":675},
             "size":{
               "width":140,
               "height":30}},
@@ -1130,7 +1130,7 @@
           "style":{
             "location":{
               "x":1080,
-              "y":610},
+              "y":641},
             "size":{
               "width":300,
               "height":32}},
@@ -1146,7 +1146,7 @@
               "style":{
                 "location":{
                   "x":1080,
-                  "y":610},
+                  "y":641},
                 "size":{
                   "width":300,
                   "height":32}},
@@ -1163,7 +1163,7 @@
           "style":{
             "location":{
               "x":1080,
-              "y":738},
+              "y":769},
             "size":{
               "width":300,
               "height":32}},
@@ -1179,7 +1179,7 @@
               "style":{
                 "location":{
                   "x":1080,
-                  "y":738},
+                  "y":769},
                 "size":{
                   "width":300,
                   "height":32}},
@@ -1196,7 +1196,7 @@
           "style":{
             "location":{
               "x":1080,
-              "y":829},
+              "y":860},
             "size":{
               "width":300,
               "height":16}},
@@ -1212,7 +1212,7 @@
               "style":{
                 "location":{
                   "x":1080,
-                  "y":829},
+                  "y":860},
                 "size":{
                   "width":300,
                   "height":16}},
@@ -1229,7 +1229,7 @@
           "style":{
             "location":{
               "x":1080,
-              "y":920},
+              "y":951},
             "size":{
               "width":300,
               "height":16}},
@@ -1245,7 +1245,7 @@
               "style":{
                 "location":{
                   "x":1080,
-                  "y":920},
+                  "y":951},
                 "size":{
                   "width":300,
                   "height":16}},
@@ -1262,7 +1262,7 @@
           "style":{
             "location":{
               "x":1080,
-              "y":672},
+              "y":703},
             "size":{
               "width":140,
               "height":30}},
@@ -1279,7 +1279,7 @@
           "style":{
             "location":{
               "x":1250,
-              "y":672},
+              "y":703},
             "size":{
               "width":140,
               "height":30}},
@@ -1294,7 +1294,7 @@
           "style":{
             "location":{
               "x":1419,
-              "y":672},
+              "y":703},
             "size":{
               "width":140,
               "height":30}},
@@ -1309,7 +1309,7 @@
           "style":{
             "location":{
               "x":1080,
-              "y":786},
+              "y":817},
             "size":{
               "width":140,
               "height":30}},
@@ -1326,7 +1326,7 @@
           "style":{
             "location":{
               "x":1250,
-              "y":786},
+              "y":817},
             "size":{
               "width":140,
               "height":30}},
@@ -1341,7 +1341,7 @@
           "style":{
             "location":{
               "x":1420,
-              "y":786},
+              "y":817},
             "size":{
               "width":140,
               "height":30}},
@@ -1356,7 +1356,7 @@
           "style":{
             "location":{
               "x":1080,
-              "y":860},
+              "y":891},
             "size":{
               "width":140,
               "height":30}},
@@ -1373,7 +1373,7 @@
           "style":{
             "location":{
               "x":1250,
-              "y":860},
+              "y":891},
             "size":{
               "width":140,
               "height":30}},
@@ -1388,14 +1388,113 @@
           "style":{
             "location":{
               "x":1090,
-              "y":950},
+              "y":981},
             "size":{
               "width":140,
               "height":30}},
           "adaptiveStyles":{
 },
           "annotation":{
-            "Description":"月粒度对应选择某一天；周粒度对应选择某一周；天粒度对应选择某一时间"}}]}},
+            "Description":"月粒度对应选择某一天；周粒度对应选择某一周；天粒度对应选择某一时间"}},
+{
+          "id":"b5a40b35565646819c7f9a68e416c799",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":600,
+              "y":336},
+            "size":{
+              "width":109,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4b6af2f2ea4f434c87849a62e9771795",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":600,
+                  "y":336},
+                "size":{
+                  "width":109,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"563af63b8d31489fa529d8b72bcfe552",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":601,
+              "y":406},
+            "size":{
+              "width":120,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a99025cf4d2c4f8d9372dacbebde07cb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":601,
+                  "y":406},
+                "size":{
+                  "width":120,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3dddb4c7114b4a4d9a9b81d450d72687",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":526},
+            "size":{
+              "width":810,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5baf662db9d14d3d9f1ae3a1f5a9ff70",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":60,
+                  "y":526},
+                "size":{
+                  "width":810,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "5542c2b03c214be0825ca9668913f769":{
       "packageId":"5542c2b03c214be0825ca9668913f769",
@@ -1461,7 +1560,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/创建数据源code/regen/u3.png"}},
+              "normal~":"images/报表功能-图/u14.png"}},
 {
             "id":"3bcafff37ae64af2bea60047cfc6b6d6",
             "label":"",
@@ -1525,7 +1624,7 @@
                                 "compress":false}}}]}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/创建数据源code/regen/u5.png"}},
+              "normal~":"images/报表功能-图/u16.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",
@@ -1599,7 +1698,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/创建数据源code/regen/u9.png"}},
+              "normal~":"images/报表功能-图/u20.png"}},
 {
             "id":"3057107345934e169d773a87fd4ca5bf",
             "label":"",
@@ -1648,7 +1747,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/创建数据源code/regen/u11.png"}},
+              "normal~":"images/报表功能-图/u22.png"}},
 {
             "id":"28baee9b1f8d490f84c240cd46dba014",
             "label":"",
@@ -1874,7 +1973,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/创建数据源code/regen/u22.png"}},
+                      "normal~":"images/报表功能-图/u33.png"}},
 {
                     "id":"060533122f194eee8fbb0026893375b6",
                     "label":"",
@@ -2017,7 +2116,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/创建数据源code/regen/u28.png"}},
+                      "normal~":"images/报表功能-图/u39.png"}},
 {
                     "id":"5a0767b803ff48b383c34492015edc99",
                     "label":"",
@@ -2060,7 +2159,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/创建数据源code/regen/u30.png"}}]}]}]}}},
+                      "normal~":"images/报表功能-图/u41.png"}}]}]}]}}},
   "objectPaths":{
     "ca573c50a3a64d9db2529eacf5104b69":{
       "scriptId":"u0"},
@@ -2265,4 +2364,16 @@
     "0c1fa3603f7c4185b939e3a59ce73f02":{
       "scriptId":"u100"},
     "276663d14b534d2b96ec2204f8aa49dc":{
-      "scriptId":"u101"}}});
+      "scriptId":"u101"},
+    "b5a40b35565646819c7f9a68e416c799":{
+      "scriptId":"u102"},
+    "4b6af2f2ea4f434c87849a62e9771795":{
+      "scriptId":"u103"},
+    "563af63b8d31489fa529d8b72bcfe552":{
+      "scriptId":"u104"},
+    "a99025cf4d2c4f8d9372dacbebde07cb":{
+      "scriptId":"u105"},
+    "3dddb4c7114b4a4d9a9b81d450d72687":{
+      "scriptId":"u106"},
+    "5baf662db9d14d3d9f1ae3a1f5a9ff70":{
+      "scriptId":"u107"}}});

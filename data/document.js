@@ -107,7 +107,19 @@
                 "children":[{
                     "pageName":"弹窗-过滤条件",
                     "type":"Wireframe",
-                    "url":"弹窗-过滤条件.html"}]},
+                    "url":"弹窗-过滤条件.html"},
+{
+                    "pageName":"未保存提示",
+                    "type":"Wireframe",
+                    "url":"未保存提示.html"},
+{
+                    "pageName":"关于支持的图表类型说明",
+                    "type":"Wireframe",
+                    "url":"关于支持的图表类型说明.html"}]},
+{
+                "pageName":"报表功能-图（文本形式）",
+                "type":"Wireframe",
+                "url":"报表功能-图（文本形式）.html"},
 {
                 "pageName":"报表功能-表",
                 "type":"Wireframe",

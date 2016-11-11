@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"数据集详情-数据报表.html",
-  "generationDate":new Date(1477984835282.27),
+  "generationDate":new Date(1478589036793.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -516,7 +516,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u219.png"}},
+            "normal~":"images/报表功能-图/u230.png"}},
 {
           "id":"ba784c19de22492c9856e6d48b36c375",
           "label":"",
@@ -1457,7 +1457,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u34.png"}},
+            "normal~":"images/报表功能-图/u39.png"}},
 {
           "id":"1131f93e062d4ea593f8c3f6b53828af",
           "label":"",
@@ -1884,7 +1884,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u34.png"}},
+            "normal~":"images/报表功能-图/u39.png"}},
 {
           "id":"0e8abf49d9824207ac6f3d956ae64790",
           "label":"",
@@ -2040,7 +2040,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u34.png"}},
+            "normal~":"images/报表功能-图/u39.png"}},
 {
           "id":"c2c299854a744e648f7ff86a55ac597a",
           "label":"",
@@ -2155,7 +2155,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u34.png"}},
+            "normal~":"images/报表功能-图/u39.png"}},
 {
           "id":"5f215583ff7c4fbba51901dd89549e09",
           "label":"",
@@ -2369,7 +2369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u34.png"}},
+            "normal~":"images/报表功能-图/u39.png"}},
 {
           "id":"c74519d92d7c49c18a6c17031373c1a1",
           "label":"",
@@ -2598,7 +2598,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/报表功能-图/u34.png"}},
+            "normal~":"images/报表功能-图/u39.png"}},
 {
           "id":"8c29d3330cb447cd93b28c2a0ab2f3dd",
           "label":"",
@@ -3680,7 +3680,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u9.png"}},
+              "normal~":"images/报表功能-图/u14.png"}},
 {
             "id":"3bcafff37ae64af2bea60047cfc6b6d6",
             "label":"",
@@ -3744,7 +3744,7 @@
                                 "compress":false}}}]}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/报表功能-图/u11.png"}},
+              "normal~":"images/报表功能-图/u16.png"}},
 {
             "id":"6514f50dd3fb4774aa20904f345237fc",
             "label":"",
@@ -3818,7 +3818,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u15.png"}},
+              "normal~":"images/报表功能-图/u20.png"}},
 {
             "id":"3057107345934e169d773a87fd4ca5bf",
             "label":"",
@@ -3867,7 +3867,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/报表功能-图/u17.png"}},
+              "normal~":"images/报表功能-图/u22.png"}},
 {
             "id":"28baee9b1f8d490f84c240cd46dba014",
             "label":"",
@@ -4093,7 +4093,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u28.png"}},
+                      "normal~":"images/报表功能-图/u33.png"}},
 {
                     "id":"060533122f194eee8fbb0026893375b6",
                     "label":"",
@@ -4236,7 +4236,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u34.png"}},
+                      "normal~":"images/报表功能-图/u39.png"}},
 {
                     "id":"5a0767b803ff48b383c34492015edc99",
                     "label":"",
@@ -4279,7 +4279,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/报表功能-图/u36.png"}}]}]}]}}},
+                      "normal~":"images/报表功能-图/u41.png"}}]}]}]}}},
   "objectPaths":{
     "7753fa8e80884a1b9d7bb4fe12b1ddf6":{
       "scriptId":"u0"},
