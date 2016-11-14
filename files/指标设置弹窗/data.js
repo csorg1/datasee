@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"指标设置弹窗.html",
-  "generationDate":new Date(1478589041617.34),
+  "generationDate":new Date(1479113631275.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

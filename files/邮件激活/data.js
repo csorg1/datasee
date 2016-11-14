@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"邮件激活.html",
-  "generationDate":new Date(1478589030492.93),
+  "generationDate":new Date(1479113620985.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

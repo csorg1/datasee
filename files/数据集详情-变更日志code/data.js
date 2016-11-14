@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"数据集详情-变更日志code.html",
-  "generationDate":new Date(1478589038853.5),
+  "generationDate":new Date(1479113628830.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

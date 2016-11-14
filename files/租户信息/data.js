@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"租户信息.html",
-  "generationDate":new Date(1478589041254.1),
+  "generationDate":new Date(1479113630844.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

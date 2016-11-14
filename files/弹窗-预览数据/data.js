@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"弹窗-预览数据.html",
-  "generationDate":new Date(1478589043007.27),
+  "generationDate":new Date(1479113632469.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

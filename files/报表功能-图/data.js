@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"报表功能-图.html",
-  "generationDate":new Date(1478589028028.3),
+  "generationDate":new Date(1479113618165.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4492,10 +4492,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 弹窗-过滤条件 in Current Window",
+                      "description":"Open Link in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"弹窗-过滤条件.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
