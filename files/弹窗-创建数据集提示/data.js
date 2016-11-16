@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"弹窗-创建数据集提示.html",
-  "generationDate":new Date(1479113634390.58),
+  "generationDate":new Date(1479293540367.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/指标设置弹窗/u0.png"}},
+            "normal~":"images/弹窗-预览数据/u0.png"}},
 {
           "id":"02eb347741c343f48c1dbd2571f3954c",
           "label":"",

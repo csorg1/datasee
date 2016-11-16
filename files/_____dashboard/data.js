@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"_____dashboard.html",
-  "generationDate":new Date(1479113629828.65),
+  "generationDate":new Date(1479293534335.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1946,7 +1946,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u270.png"}},
+            "normal~":"images/_____dashboard/u126.png"}},
 {
           "id":"69d3a6c39eea4d80b4f45c49080252bc",
           "label":"",

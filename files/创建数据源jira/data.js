@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"创建数据源jira.html",
-  "generationDate":new Date(1479113637602.41),
+  "generationDate":new Date(1479293543817.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

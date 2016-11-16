@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"创建数据源mysql.html",
-  "generationDate":new Date(1479113636821.53),
+  "generationDate":new Date(1479293543095.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

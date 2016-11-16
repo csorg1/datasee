@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"弹窗-关联表.html",
-  "generationDate":new Date(1479113634746.86),
+  "generationDate":new Date(1479293540763.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

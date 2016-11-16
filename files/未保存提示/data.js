@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"未保存提示.html",
-  "generationDate":new Date(1479113637818.09),
+  "generationDate":new Date(1479293544067.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/指标设置弹窗/u0.png"}},
+            "normal~":"images/弹窗-预览数据/u0.png"}},
 {
           "id":"3a1f2672c06f40d68af17adfb2d6e0c0",
           "label":"",

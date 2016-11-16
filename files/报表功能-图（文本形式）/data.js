@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"报表功能-图（文本形式）.html",
-  "generationDate":new Date(1479113639218.33),
+  "generationDate":new Date(1479293545151.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5628,10 +5628,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open 数据集详情-数据模型 in Current Window",
+                      "description":"Open Link in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"数据集详情-数据模型.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

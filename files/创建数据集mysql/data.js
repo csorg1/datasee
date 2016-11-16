@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"创建数据集mysql.html",
-  "generationDate":new Date(1479113633322.29),
+  "generationDate":new Date(1479293539039.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -905,7 +905,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"6226b70e6b164da1b60e55cec2bd0744",
           "label":"",
@@ -1172,7 +1172,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"cafe1a2c43094542b7cf89707cfad317",
           "label":"",
@@ -1287,7 +1287,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"c16744433f6e4b3faee2d85d69e4af86",
           "label":"",
@@ -1402,7 +1402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"339f6b0f25e14c018385e3d711ff9b88",
           "label":"",
@@ -1517,7 +1517,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"1f315747d27e4b9f8f9bcdb4ab42d549",
           "label":"",
@@ -2253,7 +2253,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"8c50b4c743984af983c448057ab9d36a",
           "label":"",
@@ -2411,7 +2411,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"d4d9498dbed041f68da183c312a5198f",
           "label":"",
@@ -2526,7 +2526,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"b43ba150785b4058ad840010598639c5",
           "label":"",
@@ -2641,7 +2641,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"b75940f35ed4495db1dc3d08695c1885",
           "label":"",
@@ -2756,7 +2756,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u65.png"}},
+            "normal~":"images/创建数据集mysql/u73.png"}},
 {
           "id":"a1ed7a7a8eb64ea5a5553523a6aa0348",
           "label":"",
@@ -3287,7 +3287,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/数据集详情-数据模型/u270.png"}},
+            "normal~":"images/_____dashboard/u126.png"}},
 {
           "id":"7ed601b114044252bd3433825dbe6d72",
           "label":"自定义sql查询",

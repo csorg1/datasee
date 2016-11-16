@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"弹窗-预览数据.html",
-  "generationDate":new Date(1479113632469.77),
+  "generationDate":new Date(1479293538071.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/指标设置弹窗/u0.png"}},
+            "normal~":"images/弹窗-预览数据/u0.png"}},
 {
           "id":"75ac6c932a254e7d9a473be07ef28177",
           "label":"",

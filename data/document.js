@@ -89,13 +89,13 @@
                         "type":"Wireframe",
                         "url":"数据集详情-变更日志code.html"},
 {
-                        "pageName":"数据集详情-数据模型",
+                        "pageName":"数据集详情-数据模型v1",
                         "type":"Wireframe",
-                        "url":"数据集详情-数据模型.html",
-                        "children":[{
-                            "pageName":"指标设置弹窗",
-                            "type":"Wireframe",
-                            "url":"指标设置弹窗.html"}]}]}]}]},
+                        "url":"数据集详情-数据模型v1.html"},
+{
+                        "pageName":"数据集详情-数据模型v2",
+                        "type":"Wireframe",
+                        "url":"数据集详情-数据模型v2.html"}]}]}]},
 {
             "pageName":"数据分析",
             "type":"Folder",
@@ -193,10 +193,14 @@
                     "type":"Wireframe",
                     "url":"邀请新用户.html"},
 {
-                    "pageName":"修改密码",
+                    "pageName":"忘记密码-new",
                     "type":"Wireframe",
-                    "url":"修改密码.html",
+                    "url":"忘记密码-new.html",
                     "children":[{
+                        "pageName":"修改密码",
+                        "type":"Wireframe",
+                        "url":"修改密码.html"},
+{
                         "pageName":"重置密码",
                         "type":"Wireframe",
                         "url":"重置密码.html"}]}]},

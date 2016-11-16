@@ -122,12 +122,121 @@
 }
 #u11 {
   position:absolute;
+  left:200px;
+  top:110px;
+  width:820px;
+  height:390px;
+}
+#u11_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:820px;
+  height:390px;
+}
+#u12 {
+  position:absolute;
+  left:2px;
+  top:187px;
+  width:816px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u13 {
+  position:absolute;
+  left:440px;
+  top:235px;
+  width:340px;
+  height:45px;
+}
+#u13_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:340px;
+  height:45px;
+  background-image:;
+  text-align:left;
+  font-family:'Arial';
+  font-size:13px;
+  color:#000000;
+  font-weight:normal;
+  font-style:normal;
+  text-decoration:none;
+}
+#u14 {
+  position:absolute;
+  left:331px;
+  top:250px;
+  width:79px;
+  height:16px;
+}
+#u14_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:16px;
+}
+#u15 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  white-space:nowrap;
+}
+#u16 {
+  position:absolute;
+  left:440px;
+  top:320px;
+  width:340px;
+  height:30px;
+}
+#u16_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:340px;
+  height:30px;
+}
+#u17 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:336px;
+  word-wrap:break-word;
+}
+#u18 {
+  position:absolute;
+  left:232px;
+  top:122px;
+  width:97px;
+  height:28px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+}
+#u18_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  height:28px;
+}
+#u19 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  white-space:nowrap;
+}
+#u20 {
+  position:absolute;
   left:210px;
   top:210px;
   width:290px;
   height:45px;
 }
-#u11_input {
+#u20_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -142,14 +251,14 @@
   font-style:normal;
   text-decoration:none;
 }
-#u12 {
+#u21 {
   position:absolute;
   left:500px;
   top:210px;
   width:290px;
   height:45px;
 }
-#u12_input {
+#u21_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -165,14 +274,14 @@
   font-style:normal;
   text-decoration:none;
 }
-#u13 {
+#u22 {
   position:absolute;
   left:680px;
   top:300px;
   width:100px;
   height:25px;
 }
-#u13_input {
+#u22_input {
   position:absolute;
   left:0px;
   top:0px;
