@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组管理.html",
-  "generationDate":new Date(1479293524492.75),
+  "generationDate":new Date(1479373791209.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -183,7 +183,7 @@
               "x":240,
               "y":124},
             "size":{
-              "width":39,
+              "width":40,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -199,7 +199,7 @@
                   "x":240,
                   "y":124},
                 "size":{
-                  "width":39,
+                  "width":40,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -396,7 +396,7 @@
               "x":441,
               "y":340},
             "size":{
-              "width":33,
+              "width":65,
               "height":19}},
           "adaptiveStyles":{
 },
@@ -415,7 +415,7 @@
                   "x":441,
                   "y":340},
                 "size":{
-                  "width":33,
+                  "width":65,
                   "height":19}},
               "adaptiveStyles":{
 }}],
@@ -881,45 +881,6 @@
           "images":{
             "normal~":"images/组管理/u74.png"}},
 {
-          "id":"326d441fe92e4c008713f54dbbe7f430",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"h2",
-          "visible":true,
-          "style":{
-            "fontName":"'Arial Normal', 'Arial'",
-            "fontSize":"16px",
-            "fontWeight":"400",
-            "location":{
-              "x":455,
-              "y":389},
-            "size":{
-              "width":49,
-              "height":19}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"fb9f2a8a1786452e86da98e23e4246ea",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontName":"'Arial Normal', 'Arial'",
-                "fontSize":"16px",
-                "fontWeight":"400",
-                "location":{
-                  "x":455,
-                  "y":389},
-                "size":{
-                  "width":49,
-                  "height":19}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"f587a969cc5b442482760d806bb365fc",
           "label":"",
           "type":"buttonShape",
@@ -930,7 +891,7 @@
               "x":507,
               "y":464},
             "size":{
-              "width":33,
+              "width":47,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -946,7 +907,7 @@
                   "x":507,
                   "y":464},
                 "size":{
-                  "width":33,
+                  "width":47,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -959,6 +920,9 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
             "location":{
               "x":465,
               "y":464},
@@ -975,6 +939,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
                 "location":{
                   "x":465,
                   "y":464},
@@ -984,7 +951,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组管理/u80.png"}},
+            "normal~":"images/组管理/u78.png"}},
 {
           "id":"4ac15070f4d14b7aa94a9ec21df20569",
           "label":"",
@@ -1052,7 +1019,7 @@
               "x":507,
               "y":516},
             "size":{
-              "width":81,
+              "width":47,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -1068,7 +1035,7 @@
                   "x":507,
                   "y":516},
                 "size":{
-                  "width":81,
+                  "width":47,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -1081,6 +1048,9 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF00CC00},
             "location":{
               "x":465,
               "y":516},
@@ -1097,6 +1067,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF00CC00},
                 "location":{
                   "x":465,
                   "y":516},
@@ -1106,7 +1079,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组管理/u80.png"}},
+            "normal~":"images/组管理/u85.png"}},
 {
           "id":"796ff2bb6b1a4d188e6b90295c65ed94",
           "label":"",
@@ -1159,7 +1132,7 @@
               "x":507,
               "y":572},
             "size":{
-              "width":66,
+              "width":63,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -1175,7 +1148,7 @@
                   "x":507,
                   "y":572},
                 "size":{
-                  "width":66,
+                  "width":63,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -1188,6 +1161,9 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF0000FF},
             "location":{
               "x":465,
               "y":572},
@@ -1204,6 +1180,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF},
                 "location":{
                   "x":465,
                   "y":572},
@@ -1213,7 +1192,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/组管理/u80.png"}},
+            "normal~":"images/组管理/u91.png"}},
 {
           "id":"2b829defb9224bcf842be203765a8478",
           "label":"",
@@ -1394,17 +1373,15 @@
           "styleType":"button",
           "visible":true,
           "style":{
-            "fontName":"'Arial Negreta', 'Arial'",
-            "fontWeight":"700",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFFFF0000,
               "opacity":1},
             "location":{
-              "x":640,
-              "y":730},
+              "x":1010,
+              "y":84},
             "size":{
-              "width":251,
+              "width":120,
               "height":35}},
           "adaptiveStyles":{
 }},
@@ -1471,7 +1448,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/组管理/u106.png"}},
+                    "normal~":"images/组管理/u104.png"}},
 {
                   "id":"852966affbfc45308b388cbbb7041fc5",
                   "label":"",
@@ -1529,7 +1506,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/组管理/u108.png"}},
+                    "normal~":"images/组管理/u106.png"}},
 {
                   "id":"01dec73e4b4a465abd53bc48a5226ee6",
                   "label":"",
@@ -1930,7 +1907,643 @@
                   "width":100,
                   "height":16}},
               "adaptiveStyles":{
-}}]}]}},
+}}]},
+{
+          "id":"d71af992500b492dbd4ab3d4d5391629",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":458,
+              "y":389},
+            "size":{
+              "width":152,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"3dd8a825c25e4c798e581b9463e1f45a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'宋体 常规', '宋体'",
+            "fontSize":"12px",
+            "lineSpacing":"22px",
+            "location":{
+              "x":634,
+              "y":690},
+            "size":{
+              "width":88,
+              "height":22},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"85b46bc1a8cd4c9a966ccba237767908",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'宋体 常规', '宋体'",
+                "fontSize":"12px",
+                "lineSpacing":"22px",
+                "location":{
+                  "x":634,
+                  "y":690},
+                "size":{
+                  "width":88,
+                  "height":22},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2fd1beb0780c4b0a90f589182237b7b3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000}}},
+            "location":{
+              "x":723.5,
+              "y":690},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ac09b78114734c1c8ebe402ccdf39626",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000}}},
+                "location":{
+                  "x":723.5,
+                  "y":690},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u133.png",
+            "mouseOver~":"images/组管理/u133_mouseOver.png"}},
+{
+          "id":"d3aa681bbbb744a8aafecb653d223a39",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":752.5,
+              "y":690},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3968d5a4aee04f90adb708feaeb45dfc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":752.5,
+                  "y":690},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u135.png"}},
+{
+          "id":"b52e4452da644681a0613a605731dcd3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000}}},
+            "location":{
+              "x":781.5,
+              "y":690},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9b298f462401486b9bbeb575cbc2e4ec",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000}}},
+                "location":{
+                  "x":781.5,
+                  "y":690},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u133.png",
+            "mouseOver~":"images/组管理/u133_mouseOver.png"}},
+{
+          "id":"628b5ae77f7040d995b1c245b26cfb7d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000}}},
+            "location":{
+              "x":809.5,
+              "y":690},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a5a473767ada4b78babff589f4b56d08",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000}}},
+                "location":{
+                  "x":809.5,
+                  "y":690},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u133.png",
+            "mouseOver~":"images/组管理/u133_mouseOver.png"}},
+{
+          "id":"2c6da3eb09ed46e380d0c6f93d5d3ae9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000}}},
+            "location":{
+              "x":838.5,
+              "y":690},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fe37be48b6d9489bbe25072ba8d7d71b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000}}},
+                "location":{
+                  "x":838.5,
+                  "y":690},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u133.png",
+            "mouseOver~":"images/组管理/u133_mouseOver.png"}},
+{
+          "id":"c6e6f9e1ac454be3a4aab83bbecd7f72",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000}}},
+            "location":{
+              "x":867.5,
+              "y":690},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b46754b53c894c6da8a002e3ceff9af6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000}}},
+                "location":{
+                  "x":867.5,
+                  "y":690},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u133.png",
+            "mouseOver~":"images/组管理/u133_mouseOver.png"}},
+{
+          "id":"2595b848d561485a9761d9ae4380849c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000}}},
+            "location":{
+              "x":919.5,
+              "y":690},
+            "size":{
+              "width":33,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8800bfe9f35b4f8087aacbe071152dbc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000}}},
+                "location":{
+                  "x":919.5,
+                  "y":690},
+                "size":{
+                  "width":33,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u145.png",
+            "mouseOver~":"images/组管理/u145_mouseOver.png"}},
+{
+          "id":"fbc686bc9b5d4e32a13be381435e1271",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000}}},
+            "location":{
+              "x":959.5,
+              "y":690},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"840851096d1f48bdb42d4c019b455e53",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000}}},
+                "location":{
+                  "x":959.5,
+                  "y":690},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u133.png",
+            "mouseOver~":"images/组管理/u133_mouseOver.png"}},
+{
+          "id":"1f3c0cd067884dcc9d57db13d6cc13be",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"12px",
+            "location":{
+              "x":900,
+              "y":690},
+            "size":{
+              "width":17,
+              "height":15},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9a89b30bc4cc49e684eb0d1f19839610",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"12px",
+                "location":{
+                  "x":900,
+                  "y":690},
+                "size":{
+                  "width":17,
+                  "height":15},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8a6048b2407e4f049dd61587e992a60e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFCC},
+            "location":{
+              "x":598,
+              "y":719},
+            "size":{
+              "width":118,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3425333a92ab4a2087feb1de6612c36b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFCC},
+                "location":{
+                  "x":598,
+                  "y":719},
+                "size":{
+                  "width":118,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u151.png"}},
+{
+          "id":"287f599463954bed8d8d0eb6991fe312",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFCC},
+            "location":{
+              "x":436,
+              "y":610},
+            "size":{
+              "width":375,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"936f3512f8544041a41e7c4e3388df62",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFCC},
+                "location":{
+                  "x":436,
+                  "y":610},
+                "size":{
+                  "width":375,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/组管理/u153.png"}}]}},
   "masters":{
     "5542c2b03c214be0825ca9668913f769":{
       "packageId":"5542c2b03c214be0825ca9668913f769",
@@ -2749,115 +3362,161 @@
       "scriptId":"u74"},
     "a1564c78b1b5476c80f5068b5275f20e":{
       "scriptId":"u75"},
-    "326d441fe92e4c008713f54dbbe7f430":{
-      "scriptId":"u76"},
-    "fb9f2a8a1786452e86da98e23e4246ea":{
-      "scriptId":"u77"},
     "f587a969cc5b442482760d806bb365fc":{
-      "scriptId":"u78"},
+      "scriptId":"u76"},
     "acd79684b36742cc9cfeae62734802af":{
-      "scriptId":"u79"},
+      "scriptId":"u77"},
     "9f59a22ac7cf445b93655bb070b20eab":{
-      "scriptId":"u80"},
+      "scriptId":"u78"},
     "cc44dc365c9b44e2a69cddb4d363ca36":{
-      "scriptId":"u81"},
+      "scriptId":"u79"},
     "4ac15070f4d14b7aa94a9ec21df20569":{
-      "scriptId":"u82"},
+      "scriptId":"u80"},
     "7081cca103c44f15b58991947688f745":{
-      "scriptId":"u83"},
+      "scriptId":"u81"},
     "a04d4d5f7a184d6b95f386584fa9ba9c":{
-      "scriptId":"u84"},
+      "scriptId":"u82"},
     "588370d0683242499f2ed21388abf409":{
-      "scriptId":"u85"},
+      "scriptId":"u83"},
     "e64cebcd96814f18be60efa61dd06a91":{
-      "scriptId":"u86"},
+      "scriptId":"u84"},
     "8a43d94b07134f229b822713f3c64cf3":{
-      "scriptId":"u87"},
+      "scriptId":"u85"},
     "8034875e94cc4e1a813c022d5915c212":{
-      "scriptId":"u88"},
+      "scriptId":"u86"},
     "796ff2bb6b1a4d188e6b90295c65ed94":{
-      "scriptId":"u89"},
+      "scriptId":"u87"},
     "4b354902878a40799c3cd7871b63c2d3":{
-      "scriptId":"u90"},
+      "scriptId":"u88"},
     "f6b372da71de4d7d80064b1052c1fb5f":{
-      "scriptId":"u91"},
+      "scriptId":"u89"},
     "3dddab01c1824cdd8644e680c629859d":{
-      "scriptId":"u92"},
+      "scriptId":"u90"},
     "e9223d9fca9c4c8ab41ee848d2094d9c":{
-      "scriptId":"u93"},
+      "scriptId":"u91"},
     "74087f9b7b4d4e8dbe26337ced64dca5":{
-      "scriptId":"u94"},
+      "scriptId":"u92"},
     "2b829defb9224bcf842be203765a8478":{
-      "scriptId":"u95"},
+      "scriptId":"u93"},
     "dcc79ecd61da44bf8fd0f203c9ec1c4b":{
-      "scriptId":"u96"},
+      "scriptId":"u94"},
     "dfd068f17c1a41dd9300f3baf031b1e5":{
-      "scriptId":"u97"},
+      "scriptId":"u95"},
     "569abde0ff714eb681591afee3496194":{
-      "scriptId":"u98"},
+      "scriptId":"u96"},
     "5a26d36e47944234b3b60b5d4b1c7d46":{
-      "scriptId":"u99"},
+      "scriptId":"u97"},
     "4618a5f639a547068c6378ded15ff35a":{
-      "scriptId":"u100"},
+      "scriptId":"u98"},
     "e544a599757a4fb0be02927ea09c4506":{
-      "scriptId":"u101"},
+      "scriptId":"u99"},
     "df95e37611f448fbb1ae437f10ec79a6":{
-      "scriptId":"u102"},
+      "scriptId":"u100"},
     "b4c76ec4edff4bed876f928a8bcef34f":{
-      "scriptId":"u103"},
+      "scriptId":"u101"},
     "2336ffad9c4d4815821bcd2127217130":{
-      "scriptId":"u104"},
+      "scriptId":"u102"},
     "4748f661ae774c1faeb9405680f31483":{
-      "scriptId":"u105"},
+      "scriptId":"u103"},
     "0e3432196ff5444290f56154c5210ca2":{
-      "scriptId":"u106"},
+      "scriptId":"u104"},
     "e1bf323cfadc4583862425b0961f9700":{
-      "scriptId":"u107"},
+      "scriptId":"u105"},
     "852966affbfc45308b388cbbb7041fc5":{
-      "scriptId":"u108"},
+      "scriptId":"u106"},
     "0662aeacf6ce4fe487ec80f140fd7e71":{
-      "scriptId":"u109"},
+      "scriptId":"u107"},
     "01dec73e4b4a465abd53bc48a5226ee6":{
-      "scriptId":"u110"},
+      "scriptId":"u108"},
     "0e8970fa7bb845358e6fbc9672fa9c5a":{
-      "scriptId":"u111"},
+      "scriptId":"u109"},
     "4a1cca9d01ac41d9ba8ea662c9d42bef":{
-      "scriptId":"u112"},
+      "scriptId":"u110"},
     "31d9fb2bc9914a3d9cf85cedecc6be00":{
-      "scriptId":"u113"},
+      "scriptId":"u111"},
     "3d3a3aef3cc34d53b8afd9e2eb6d476b":{
-      "scriptId":"u114"},
+      "scriptId":"u112"},
     "e8551fbede7f465bac588f6e8f64f75f":{
-      "scriptId":"u115"},
+      "scriptId":"u113"},
     "3553c3820b2b4559ab229602d26130d2":{
-      "scriptId":"u116"},
+      "scriptId":"u114"},
     "725d65d4d99d4747a53212f41e68f241":{
-      "scriptId":"u117"},
+      "scriptId":"u115"},
     "dcd1fddf3ff74d0bbf45c96bdb2b33bb":{
-      "scriptId":"u118"},
+      "scriptId":"u116"},
     "701dfad783cf4c44a0cd698766eb5010":{
-      "scriptId":"u119"},
+      "scriptId":"u117"},
     "0b517f07e1f44d7a94cb3678e9f1d7df":{
-      "scriptId":"u120"},
+      "scriptId":"u118"},
     "2f7c82ac84324ca2b8db093dce132bee":{
-      "scriptId":"u121"},
+      "scriptId":"u119"},
     "e4157dfe2ae241908293ae6f5e204c1e":{
-      "scriptId":"u122"},
+      "scriptId":"u120"},
     "8a7afecb8ff44566a6c8ab128cc0482c":{
-      "scriptId":"u123"},
+      "scriptId":"u121"},
     "9f27af992eb74988a4fdbeb5b29c1ec4":{
-      "scriptId":"u124"},
+      "scriptId":"u122"},
     "e879af8c81d64c22b73e92b0234c094c":{
-      "scriptId":"u125"},
+      "scriptId":"u123"},
     "5eb891809db149109a7c7c32617dbac4":{
-      "scriptId":"u126"},
+      "scriptId":"u124"},
     "661f63725c32403cafb733f74f90183e":{
-      "scriptId":"u127"},
+      "scriptId":"u125"},
     "ede437a2c68546d3aa00742ac3a5d2f3":{
-      "scriptId":"u128"},
+      "scriptId":"u126"},
     "6b763ce58bdb49edbb023b2332570643":{
-      "scriptId":"u129"},
+      "scriptId":"u127"},
     "3ef64033bc09489f8c590923abe722f6":{
-      "scriptId":"u130"},
+      "scriptId":"u128"},
     "a959968fca9944f8be39c1b450d5a29c":{
-      "scriptId":"u131"}}});
+      "scriptId":"u129"},
+    "d71af992500b492dbd4ab3d4d5391629":{
+      "scriptId":"u130"},
+    "3dd8a825c25e4c798e581b9463e1f45a":{
+      "scriptId":"u131"},
+    "85b46bc1a8cd4c9a966ccba237767908":{
+      "scriptId":"u132"},
+    "2fd1beb0780c4b0a90f589182237b7b3":{
+      "scriptId":"u133"},
+    "ac09b78114734c1c8ebe402ccdf39626":{
+      "scriptId":"u134"},
+    "d3aa681bbbb744a8aafecb653d223a39":{
+      "scriptId":"u135"},
+    "3968d5a4aee04f90adb708feaeb45dfc":{
+      "scriptId":"u136"},
+    "b52e4452da644681a0613a605731dcd3":{
+      "scriptId":"u137"},
+    "9b298f462401486b9bbeb575cbc2e4ec":{
+      "scriptId":"u138"},
+    "628b5ae77f7040d995b1c245b26cfb7d":{
+      "scriptId":"u139"},
+    "a5a473767ada4b78babff589f4b56d08":{
+      "scriptId":"u140"},
+    "2c6da3eb09ed46e380d0c6f93d5d3ae9":{
+      "scriptId":"u141"},
+    "fe37be48b6d9489bbe25072ba8d7d71b":{
+      "scriptId":"u142"},
+    "c6e6f9e1ac454be3a4aab83bbecd7f72":{
+      "scriptId":"u143"},
+    "b46754b53c894c6da8a002e3ceff9af6":{
+      "scriptId":"u144"},
+    "2595b848d561485a9761d9ae4380849c":{
+      "scriptId":"u145"},
+    "8800bfe9f35b4f8087aacbe071152dbc":{
+      "scriptId":"u146"},
+    "fbc686bc9b5d4e32a13be381435e1271":{
+      "scriptId":"u147"},
+    "840851096d1f48bdb42d4c019b455e53":{
+      "scriptId":"u148"},
+    "1f3c0cd067884dcc9d57db13d6cc13be":{
+      "scriptId":"u149"},
+    "9a89b30bc4cc49e684eb0d1f19839610":{
+      "scriptId":"u150"},
+    "8a6048b2407e4f049dd61587e992a60e":{
+      "scriptId":"u151"},
+    "3425333a92ab4a2087feb1de6612c36b":{
+      "scriptId":"u152"},
+    "287f599463954bed8d8d0eb6991fe312":{
+      "scriptId":"u153"},
+    "936f3512f8544041a41e7c4e3388df62":{
+      "scriptId":"u154"}}});

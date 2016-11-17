@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"创建数据源code.html",
-  "generationDate":new Date(1479293543502.34),
+  "generationDate":new Date(1479373813651.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

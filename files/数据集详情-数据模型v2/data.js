@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"数据集详情-数据模型v2.html",
-  "generationDate":new Date(1479293549637.4),
+  "generationDate":new Date(1479373821419.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4716,7 +4716,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/数据集详情-数据模型v1/u301.png"}},
+                    "normal~":"images/弹窗-关联表/u39.png"}},
 {
                   "id":"35e7b2bd0460424b9b0c00a7842c8657",
                   "label":"",
@@ -5709,7 +5709,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/数据集详情-数据模型v1/u301.png"}},
+                    "normal~":"images/弹窗-关联表/u39.png"}},
 {
                   "id":"e5c7c44c494c4e67b6b8abeecacc946c",
                   "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"关于支持的图表类型说明.html",
-  "generationDate":new Date(1479293544183.79),
+  "generationDate":new Date(1479373814487.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

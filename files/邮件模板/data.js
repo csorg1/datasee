@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"邮件模板.html",
-  "generationDate":new Date(1479293536914.98),
+  "generationDate":new Date(1479373805902.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

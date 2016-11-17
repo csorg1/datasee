@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"用户登录.html",
-  "generationDate":new Date(1479293522622.51),
+  "generationDate":new Date(1479373789455.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -304,194 +304,6 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"resources/images/transparent.gif"}},
-{
-            "id":"68eab370385048a19e61141abb8aafdd",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"buttonShape",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":200,
-                "y":120},
-              "size":{
-                "width":820,
-                "height":390}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"1128c33bb77e419b925768169fd0bade",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":200,
-                    "y":120},
-                  "size":{
-                    "width":820,
-                    "height":390}},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/创建租户/u13.png"}},
-{
-            "id":"fd8d8dada7be4c1585271200f70cf7bf",
-            "label":"",
-            "type":"textBox",
-            "styleType":"textBox",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":440,
-                "y":245},
-              "size":{
-                "width":340,
-                "height":45}},
-            "adaptiveStyles":{
-}},
-{
-            "id":"d8753c61dba7441cb388c4b822a91531",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"paragraph",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":331,
-                "y":260},
-              "size":{
-                "width":79,
-                "height":16}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"4038df99a0d743cb92726fec406865d4",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":331,
-                    "y":260},
-                  "size":{
-                    "width":79,
-                    "height":16}},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"resources/images/transparent.gif"}},
-{
-            "id":"cbc86dfc21ad4493aa3fdfe776683054",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"buttonShape",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":440,
-                "y":330},
-              "size":{
-                "width":340,
-                "height":30},
-              "cornerRadiusTopLeft":"5"},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"04b4b98378364eb28495596f370336e9",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":440,
-                    "y":330},
-                  "size":{
-                    "width":340,
-                    "height":30},
-                  "cornerRadiusTopLeft":"5"},
-                "adaptiveStyles":{
-}}],
-            "interactionMap":{
-              "onClick":{
-                "description":"OnClick",
-                "cases":[{
-                    "description":"Case 1",
-                    "isNewIfGroup":false,
-                    "actions":[{
-                        "action":"linkWindow",
-                        "description":"Open Link in Popup Window",
-                        "target":{
-                          "targetType":"page",
-                          "includeVariables":true},
-                        "linkType":"popup",
-                        "popup":{
-                          "left":100,
-                          "top":100,
-                          "width":500,
-                          "height":500,
-                          "toolbar":false,
-                          "scrollbars":false,
-                          "location":false,
-                          "status":false,
-                          "menubar":false,
-                          "directories":false,
-                          "resizable":false,
-                          "centerwindow":true}},
-{
-                        "action":"linkWindow",
-                        "description":"Open 修改密码 in Current Window",
-                        "target":{
-                          "targetType":"page",
-                          "url":"修改密码.html",
-                          "includeVariables":true},
-                        "linkType":"current"}]}]}},
-            "tabbable":true,
-            "images":{
-              "normal~":"images/创建租户/u18.png"}},
-{
-            "id":"e7f5d69bae4b49f8af2433cf6d84faf9",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"h2",
-            "visible":true,
-            "style":{
-              "fontName":"'Arial Normal', 'Arial'",
-              "fontWeight":"400",
-              "location":{
-                "x":232,
-                "y":132},
-              "size":{
-                "width":97,
-                "height":28}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"679cd039b01b4cfba9dc26729e03e1fa",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "fontName":"'Arial Normal', 'Arial'",
-                  "fontWeight":"400",
-                  "location":{
-                    "x":232,
-                    "y":132},
-                  "size":{
-                    "width":97,
-                    "height":28}},
-                "adaptiveStyles":{
-}}],
-            "images":{
               "normal~":"resources/images/transparent.gif"}}]}}},
   "objectPaths":{
     "32de29c889904734806fd316e38d8d53":{
@@ -515,28 +327,10 @@
       "113be51b57834160b0f9284e99716c61":{
         "scriptId":"u9"},
       "1bacc409ead9433899b32306bde07311":{
-        "scriptId":"u10"},
-      "68eab370385048a19e61141abb8aafdd":{
-        "scriptId":"u11"},
-      "1128c33bb77e419b925768169fd0bade":{
-        "scriptId":"u12"},
-      "fd8d8dada7be4c1585271200f70cf7bf":{
-        "scriptId":"u13"},
-      "d8753c61dba7441cb388c4b822a91531":{
-        "scriptId":"u14"},
-      "4038df99a0d743cb92726fec406865d4":{
-        "scriptId":"u15"},
-      "cbc86dfc21ad4493aa3fdfe776683054":{
-        "scriptId":"u16"},
-      "04b4b98378364eb28495596f370336e9":{
-        "scriptId":"u17"},
-      "e7f5d69bae4b49f8af2433cf6d84faf9":{
-        "scriptId":"u18"},
-      "679cd039b01b4cfba9dc26729e03e1fa":{
-        "scriptId":"u19"}},
+        "scriptId":"u10"}},
     "67af9819b8c74c95a35e035285fa88a3":{
-      "scriptId":"u20"},
+      "scriptId":"u11"},
     "a3988afb2c364905a4a6f9acd4d87f06":{
-      "scriptId":"u21"},
+      "scriptId":"u12"},
     "17d828be8b6e44d295673dafc7bc741f":{
-      "scriptId":"u22"}}});
+      "scriptId":"u13"}}});

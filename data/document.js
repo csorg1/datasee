@@ -91,7 +91,8 @@
 {
                         "pageName":"数据集详情-数据模型v1",
                         "type":"Wireframe",
-                        "url":"数据集详情-数据模型v1.html"},
+                        "url":"数据集详情-数据模型v1.html",
+                        "children":[]},
 {
                         "pageName":"数据集详情-数据模型v2",
                         "type":"Wireframe",
@@ -193,9 +194,9 @@
                     "type":"Wireframe",
                     "url":"邀请新用户.html"},
 {
-                    "pageName":"忘记密码-new",
+                    "pageName":"忘记密码验证邮箱",
                     "type":"Wireframe",
-                    "url":"忘记密码-new.html",
+                    "url":"忘记密码验证邮箱.html",
                     "children":[{
                         "pageName":"修改密码",
                         "type":"Wireframe",

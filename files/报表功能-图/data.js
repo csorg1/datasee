@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"报表功能-图.html",
-  "generationDate":new Date(1479293521378.69),
+  "generationDate":new Date(1479373788693.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

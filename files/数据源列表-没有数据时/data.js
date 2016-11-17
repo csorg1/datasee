@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"数据源列表-没有数据时.html",
-  "generationDate":new Date(1479293542411.61),
+  "generationDate":new Date(1479373812407.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

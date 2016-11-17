@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"登录信息.html",
-  "generationDate":new Date(1479293525363.33),
+  "generationDate":new Date(1479373791936.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -62,19 +62,6 @@
 }}],
           "images":{
             "normal~":"images/登录信息/u0.png"}},
-{
-          "id":"144e6dce43a34a2bb6e430dbdad893a2",
-          "label":"",
-          "type":"referenceDiagramObject",
-          "styleType":"referenceDiagramObject",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":10,
-              "y":0}},
-          "adaptiveStyles":{
-},
-          "masterId":"d4bd2a6cc6e24b23b8d6d38fcc34aed7"},
 {
           "id":"b7eb0f59f73f4d059b6d36bc9d848a22",
           "label":"",
@@ -189,6 +176,21 @@
                   "height":16}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 忘记密码验证邮箱 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"忘记密码验证邮箱.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
@@ -209,7 +211,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/登录信息/u28_line.png"}},
+            "line~":"images/登录信息/u8_line.png"}},
 {
           "id":"0028df4b59e64d5fb91620719c34348f",
           "label":"",
@@ -242,7 +244,20 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d809cbd6139d44f682899e58518ef089",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":0}},
+          "adaptiveStyles":{
+},
+          "masterId":"d4bd2a6cc6e24b23b8d6d38fcc34aed7"}]}},
   "masters":{
     "d4bd2a6cc6e24b23b8d6d38fcc34aed7":{
       "packageId":"d4bd2a6cc6e24b23b8d6d38fcc34aed7",
@@ -442,255 +457,49 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"resources/images/transparent.gif"}},
-{
-            "id":"68eab370385048a19e61141abb8aafdd",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"buttonShape",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":200,
-                "y":120},
-              "size":{
-                "width":820,
-                "height":390}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"1128c33bb77e419b925768169fd0bade",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":200,
-                    "y":120},
-                  "size":{
-                    "width":820,
-                    "height":390}},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"images/创建租户/u13.png"}},
-{
-            "id":"fd8d8dada7be4c1585271200f70cf7bf",
-            "label":"",
-            "type":"textBox",
-            "styleType":"textBox",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":440,
-                "y":245},
-              "size":{
-                "width":340,
-                "height":45}},
-            "adaptiveStyles":{
-}},
-{
-            "id":"d8753c61dba7441cb388c4b822a91531",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"paragraph",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":331,
-                "y":260},
-              "size":{
-                "width":79,
-                "height":16}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"4038df99a0d743cb92726fec406865d4",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":331,
-                    "y":260},
-                  "size":{
-                    "width":79,
-                    "height":16}},
-                "adaptiveStyles":{
-}}],
-            "images":{
-              "normal~":"resources/images/transparent.gif"}},
-{
-            "id":"cbc86dfc21ad4493aa3fdfe776683054",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"buttonShape",
-            "visible":true,
-            "style":{
-              "location":{
-                "x":440,
-                "y":330},
-              "size":{
-                "width":340,
-                "height":30},
-              "cornerRadiusTopLeft":"5"},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"04b4b98378364eb28495596f370336e9",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "location":{
-                    "x":440,
-                    "y":330},
-                  "size":{
-                    "width":340,
-                    "height":30},
-                  "cornerRadiusTopLeft":"5"},
-                "adaptiveStyles":{
-}}],
-            "interactionMap":{
-              "onClick":{
-                "description":"OnClick",
-                "cases":[{
-                    "description":"Case 1",
-                    "isNewIfGroup":false,
-                    "actions":[{
-                        "action":"linkWindow",
-                        "description":"Open Link in Popup Window",
-                        "target":{
-                          "targetType":"page",
-                          "includeVariables":true},
-                        "linkType":"popup",
-                        "popup":{
-                          "left":100,
-                          "top":100,
-                          "width":500,
-                          "height":500,
-                          "toolbar":false,
-                          "scrollbars":false,
-                          "location":false,
-                          "status":false,
-                          "menubar":false,
-                          "directories":false,
-                          "resizable":false,
-                          "centerwindow":true}},
-{
-                        "action":"linkWindow",
-                        "description":"Open 修改密码 in Current Window",
-                        "target":{
-                          "targetType":"page",
-                          "url":"修改密码.html",
-                          "includeVariables":true},
-                        "linkType":"current"}]}]}},
-            "tabbable":true,
-            "images":{
-              "normal~":"images/创建租户/u18.png"}},
-{
-            "id":"e7f5d69bae4b49f8af2433cf6d84faf9",
-            "label":"",
-            "type":"buttonShape",
-            "styleType":"h2",
-            "visible":true,
-            "style":{
-              "fontName":"'Arial Normal', 'Arial'",
-              "fontWeight":"400",
-              "location":{
-                "x":232,
-                "y":132},
-              "size":{
-                "width":97,
-                "height":28}},
-            "adaptiveStyles":{
-},
-            "objects":[{
-                "id":"679cd039b01b4cfba9dc26729e03e1fa",
-                "label":"",
-                "isContained":true,
-                "type":"richTextPanel",
-                "styleType":"paragraph",
-                "visible":true,
-                "style":{
-                  "fontName":"'Arial Normal', 'Arial'",
-                  "fontWeight":"400",
-                  "location":{
-                    "x":232,
-                    "y":132},
-                  "size":{
-                    "width":97,
-                    "height":28}},
-                "adaptiveStyles":{
-}}],
-            "images":{
               "normal~":"resources/images/transparent.gif"}}]}}},
   "objectPaths":{
     "fa4612389fb340b48fdc00d0eff973c8":{
       "scriptId":"u0"},
     "821bf0fc104945a3b6249066890c9215":{
       "scriptId":"u1"},
-    "144e6dce43a34a2bb6e430dbdad893a2":{
-      "scriptId":"u2",
-      "0485693d3903489ba50d27ec5c2da9b8":{
-        "scriptId":"u3"},
-      "5c3b2396b92b4313b10cd10aa5f0a153":{
-        "scriptId":"u4"},
-      "6514f50dd3fb4774aa20904f345237fc":{
-        "scriptId":"u5"},
-      "fe7e681127c444418e4e3ba5d45d8b7e":{
-        "scriptId":"u6"},
-      "ad14925c042b4db492a9dc53a684564b":{
-        "scriptId":"u7"},
-      "2ce2d4cce76a46e19ee0025bf6c804cd":{
-        "scriptId":"u8"},
-      "1fd4ec783504405199fab72366944f1c":{
-        "scriptId":"u9"},
-      "abb3a0d0af25457da4d7531349b26a56":{
-        "scriptId":"u10"},
-      "113be51b57834160b0f9284e99716c61":{
-        "scriptId":"u11"},
-      "1bacc409ead9433899b32306bde07311":{
-        "scriptId":"u12"},
-      "68eab370385048a19e61141abb8aafdd":{
-        "scriptId":"u13"},
-      "1128c33bb77e419b925768169fd0bade":{
-        "scriptId":"u14"},
-      "fd8d8dada7be4c1585271200f70cf7bf":{
-        "scriptId":"u15"},
-      "d8753c61dba7441cb388c4b822a91531":{
-        "scriptId":"u16"},
-      "4038df99a0d743cb92726fec406865d4":{
-        "scriptId":"u17"},
-      "cbc86dfc21ad4493aa3fdfe776683054":{
-        "scriptId":"u18"},
-      "04b4b98378364eb28495596f370336e9":{
-        "scriptId":"u19"},
-      "e7f5d69bae4b49f8af2433cf6d84faf9":{
-        "scriptId":"u20"},
-      "679cd039b01b4cfba9dc26729e03e1fa":{
-        "scriptId":"u21"}},
     "b7eb0f59f73f4d059b6d36bc9d848a22":{
-      "scriptId":"u22"},
+      "scriptId":"u2"},
     "299e8e4942574ed09281c17097d4f3af":{
-      "scriptId":"u23"},
+      "scriptId":"u3"},
     "d8fe14ea32c94f59977b7d653ba694c5":{
-      "scriptId":"u24"},
+      "scriptId":"u4"},
     "aa71e8c882dc4b57bf8c0604eafeddec":{
-      "scriptId":"u25"},
+      "scriptId":"u5"},
     "17e0d77058a64ae3b0326cba3cc9f47b":{
-      "scriptId":"u26"},
+      "scriptId":"u6"},
     "70afe868fee1461a945b0db9ffb17476":{
-      "scriptId":"u27"},
+      "scriptId":"u7"},
     "28be5ebdd1c54b3bb62ab68d01006649":{
-      "scriptId":"u28"},
+      "scriptId":"u8"},
     "0028df4b59e64d5fb91620719c34348f":{
-      "scriptId":"u29"},
+      "scriptId":"u9"},
     "069a9de1acac467ea4b6dae2d141ae95":{
-      "scriptId":"u30"}}});
+      "scriptId":"u10"},
+    "d809cbd6139d44f682899e58518ef089":{
+      "scriptId":"u11",
+      "0485693d3903489ba50d27ec5c2da9b8":{
+        "scriptId":"u12"},
+      "5c3b2396b92b4313b10cd10aa5f0a153":{
+        "scriptId":"u13"},
+      "6514f50dd3fb4774aa20904f345237fc":{
+        "scriptId":"u14"},
+      "fe7e681127c444418e4e3ba5d45d8b7e":{
+        "scriptId":"u15"},
+      "ad14925c042b4db492a9dc53a684564b":{
+        "scriptId":"u16"},
+      "2ce2d4cce76a46e19ee0025bf6c804cd":{
+        "scriptId":"u17"},
+      "1fd4ec783504405199fab72366944f1c":{
+        "scriptId":"u18"},
+      "abb3a0d0af25457da4d7531349b26a56":{
+        "scriptId":"u19"},
+      "113be51b57834160b0f9284e99716c61":{
+        "scriptId":"u20"},
+      "1bacc409ead9433899b32306bde07311":{
+        "scriptId":"u21"}}}});
