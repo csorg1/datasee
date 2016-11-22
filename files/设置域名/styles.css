@@ -488,14 +488,13 @@
   top:0px;
   width:280px;
   height:59px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#999999;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#999999;
+  text-align:left;
 }
 #u41 {
   position:absolute;
@@ -510,14 +509,13 @@
   top:0px;
   width:300px;
   height:41px;
-  background-image:url(../../resources/images/transparent.gif);
-  text-align:center;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:center;
 }
 #u42 {
   position:absolute;

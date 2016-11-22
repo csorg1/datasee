@@ -604,14 +604,13 @@
   top:0px;
   width:510px;
   height:40px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u50 {
   position:absolute;
@@ -626,14 +625,13 @@
   top:0px;
   width:510px;
   height:40px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u51 {
   position:absolute;
@@ -648,14 +646,13 @@
   top:0px;
   width:510px;
   height:40px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u52 {
   position:absolute;
@@ -759,14 +756,13 @@
   top:0px;
   width:100px;
   height:25px;
-  background-image:url(../../resources/images/transparent.gif);
-  text-align:center;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:center;
 }
 #u61 {
   position:absolute;
@@ -967,13 +963,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u74_input:disabled {
+  color:grayText;
 }
 #u74_ann {
   position:absolute;
@@ -995,13 +993,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u75_input:disabled {
+  color:grayText;
 }
 #u76 {
   position:absolute;

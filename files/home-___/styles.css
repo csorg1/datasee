@@ -946,6 +946,8 @@
   width:88px;
   height:22px;
   font-family:'宋体 常规', '宋体';
+  font-weight:400;
+  font-style:normal;
   font-size:12px;
   line-height:22px;
 }
@@ -1225,14 +1227,13 @@
   top:0px;
   width:53px;
   height:25px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u105 {
   position:absolute;
@@ -2662,14 +2663,13 @@
   top:0px;
   width:200px;
   height:25px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u236 {
   position:absolute;

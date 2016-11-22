@@ -615,6 +615,7 @@
   height:16px;
   font-family:'Arial Negreta', 'Arial';
   font-weight:700;
+  font-style:normal;
   font-size:14px;
 }
 #u52_img {
@@ -1141,13 +1142,15 @@
   top:0px;
   width:258px;
   height:33px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u99_input:disabled {
+  color:grayText;
 }
 #u100 {
   position:absolute;
@@ -1183,13 +1186,15 @@
   top:0px;
   width:258px;
   height:33px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u102_input:disabled {
+  color:grayText;
 }
 #u103 {
   position:absolute;
@@ -1204,14 +1209,13 @@
   top:0px;
   width:258px;
   height:33px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u104 {
   position:absolute;
@@ -1248,14 +1252,13 @@
   top:0px;
   width:76px;
   height:21px;
-  background-image:url(../../resources/images/transparent.gif);
-  text-align:center;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:center;
 }
 #u107 {
   position:absolute;
@@ -1270,14 +1273,13 @@
   top:0px;
   width:76px;
   height:21px;
-  background-image:url(../../resources/images/transparent.gif);
-  text-align:center;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:center;
 }
 #u108 {
   position:absolute;
@@ -2733,13 +2735,15 @@
   top:0px;
   width:539px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u236_input:disabled {
+  color:grayText;
 }
 #u237 {
   position:absolute;
@@ -2964,14 +2968,13 @@
   top:0px;
   width:222px;
   height:25px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#999999;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#999999;
+  text-align:left;
 }
 #u258 {
   position:absolute;
@@ -3250,14 +3253,13 @@
   top:0px;
   width:222px;
   height:25px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u280 {
   position:absolute;
@@ -3364,14 +3366,13 @@
   top:0px;
   width:222px;
   height:25px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#999999;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#999999;
+  text-align:left;
 }
 #u288 {
   position:absolute;
@@ -3825,14 +3826,13 @@
   top:0px;
   width:222px;
   height:25px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u326 {
   position:absolute;

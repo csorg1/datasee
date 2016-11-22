@@ -553,14 +553,13 @@
   top:0px;
   width:510px;
   height:40px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u47 {
   position:absolute;
@@ -575,14 +574,13 @@
   top:0px;
   width:510px;
   height:40px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u48 {
   position:absolute;
@@ -597,14 +595,13 @@
   top:0px;
   width:510px;
   height:40px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u49 {
   position:absolute;
@@ -663,13 +660,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u53_input:disabled {
+  color:grayText;
 }
 #u53_ann {
   position:absolute;
@@ -691,13 +690,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u54_input:disabled {
+  color:grayText;
 }
 #u55 {
   position:absolute;
@@ -794,14 +795,13 @@
   top:0px;
   width:100px;
   height:25px;
-  background-image:url(../../resources/images/transparent.gif);
-  text-align:center;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:center;
 }
 #u64 {
   position:absolute;
@@ -1002,14 +1002,13 @@
   top:0px;
   width:510px;
   height:40px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
 #u78 {
   position:absolute;
@@ -1089,13 +1088,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u84_input:disabled {
+  color:grayText;
 }
 #u85 {
   position:absolute;
@@ -1194,13 +1195,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u93_input:disabled {
+  color:grayText;
 }
 #u93_ann {
   position:absolute;
@@ -1222,13 +1225,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u94_input:disabled {
+  color:grayText;
 }
 #u95 {
   position:absolute;
@@ -1243,13 +1248,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u95_input:disabled {
+  color:grayText;
 }
 #u96 {
   position:absolute;
@@ -1264,13 +1271,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u96_input:disabled {
+  color:grayText;
 }
 #u96_ann {
   position:absolute;
@@ -1292,13 +1301,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u97_input:disabled {
+  color:grayText;
 }
 #u98 {
   position:absolute;
@@ -1313,13 +1324,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u98_input:disabled {
+  color:grayText;
 }
 #u99 {
   position:absolute;
@@ -1334,13 +1347,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u99_input:disabled {
+  color:grayText;
 }
 #u99_ann {
   position:absolute;
@@ -1362,13 +1377,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u100_input:disabled {
+  color:grayText;
 }
 #u101 {
   position:absolute;
@@ -1383,13 +1400,15 @@
   top:0px;
   width:140px;
   height:30px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u101_input:disabled {
+  color:grayText;
 }
 #u101_ann {
   position:absolute;
